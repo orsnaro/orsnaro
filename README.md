@@ -3,7 +3,7 @@
 </a> </p> -->
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com/?user=orsnaro&theme=buefy-dark)](https://git.io/streak-stats)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com?user=orsnaro&theme=buefy-dark)](https://git.io/streak-stats)
 
   
 ---
