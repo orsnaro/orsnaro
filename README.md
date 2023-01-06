@@ -10,6 +10,5 @@
 ---
 
 > #### Get in touch With me: 
-[![Linkedin](discord)](https://www.linkedin.com/in/omar-rashad-72815b217/)
 
-https://discord.com/invite/TzuY4j6qpF
+
