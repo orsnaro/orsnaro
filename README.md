@@ -17,7 +17,7 @@
 ---
 
 
-> ##### Get in touch With me: 
+> ##### Get in touch with me: 
 
 &nbsp; &nbsp; [![Linkedin](https://github.com/orsnaro/orsnaro/blob/main/linkedin20.png)](https://www.linkedin.com/in/omar-rashad-72815b217/)  [![Discord](https://github.com/orsnaro/orsnaro/blob/main/discord20.png)](https://discord.gg/Y23B7R3FPq)
 
