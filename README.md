@@ -12,6 +12,7 @@
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &nbsp; <sub><sub> 📍 Batchfiles  and Jupyter-Notebook languages is **ignored** (due to the fact that batch-files not all made by me & jupyter contains python 'already included' ) 📍</sub></sub>
   
   
 ---
