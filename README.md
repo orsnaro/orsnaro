@@ -14,7 +14,7 @@
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &nbsp; <sub><sub> 📍 Batchfiles  and Jupyter-Notebook languages is **ignored** (due to the fact that batch-files not all made by me & jupyter contains python 'already included' ) 📍</sub></sub>
   
-  
+   
 ---
 
 
@@ -23,5 +23,6 @@
 &nbsp; &nbsp; [![Linkedin](https://github.com/orsnaro/orsnaro/blob/main/linkedin20.png)](https://www.linkedin.com/in/omar-rashad-72815b217/)  [![Discord](https://github.com/orsnaro/orsnaro/blob/main/discord20.png)](https://discord.gg/Y23B7R3FPq)
 
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=orsnaro&color=blue"></p>
 
 
