@@ -48,7 +48,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 100
           plugin_languages_categories: markup , programming , scripting
           plugin_languages_colors: github
-          plugin_languages_ignored: Jupyter Notebook
+          plugin_languages_ignored: Jupyter Notebook , HTML
           #TODO : later  Batchfile when you remove cmder to a standalone  repo
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming , scripting
