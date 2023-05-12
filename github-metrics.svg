@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="215.8381067046104" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="215.8381067046104" y="0" width="110.33018351636325" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="326.1682902209737" y="0" width="104.73591399418682" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="430.90420421516046" y="0" width="29.095795784839527" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="215.61914944022936" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="215.61914944022936" y="0" width="110.21825890985961" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="325.837408350089" y="0" width="104.62966450209875" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="430.46707285218775" y="0" width="29.53292714781225" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -64,7 +64,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 87.3 characters per line of code written</li>
+                        <li>Has approximately 87.5 characters per line of code written</li>
                         <li>Mostly pushes code around 03:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -488,7 +488,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 May 2023, 10:19:32 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 11:15:57 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
