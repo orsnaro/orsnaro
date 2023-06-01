@@ -43,7 +43,7 @@ jobs:
           plugin_languages_recent_categories: programming , scripting #other options: markup
           plugin_languages_colors: github
           plugin_languages_ignored: Jupyter Notebook , HTML , CSS , JavaScript , TeX 
-          plugin_languages_skipped: orsnaro/orsnaro , orsnaro/PC-metrics-CMDER-config   #the repos that are skipped 
+          plugin_languages_skipped: orsnaro , PC-metrics-CMDER-config   #the repos that are skipped 
           plugin_languages_limit: 8
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
@@ -60,14 +60,14 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_from: 1000
-          plugin_habits_skipped: orsnaro/orsnaro , orsnaro/PC-metrics-CMDER-config
+          plugin_habits_skipped: orsnaro , PC-metrics-CMDER-config
           plugin_habits_languages_limit: 10
           plugin_habits_languages_threshold: 0%
           
           plugin_activity: yes
           plugin_activity_limit: 2
           plugin_activity_visibility: all #options : all , public
-          plugin_activity_skipped: orsnaro/orsnaro , orsnaro/PC-metrics-CMDER-config , orsnaro/CP-study
+          plugin_activity_skipped: orsnaro , PC-metrics-CMDER-config , CP-study
           #plugin_activity_ignored: #later if you want to include orsnaro repo but ignore the bot acts
 
           plugin_achievements: yes
