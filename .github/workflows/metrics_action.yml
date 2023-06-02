@@ -39,15 +39,15 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_details: lines
           plugin_languages_analysis_timeout_repositories: 100
-          plugin_languages_categories: programming , scripting #other options: markup
-          plugin_languages_recent_categories: programming , scripting #other options: markup
+          plugin_languages_categories: programming , data , prose ,scripting #other options: markup
+          plugin_languages_recent_categories: programming , data , prose ,scripting #other options: markup
           plugin_languages_colors: github
           plugin_languages_ignored: Jupyter Notebook , HTML , CSS , JavaScript , TeX , java
           plugin_languages_skipped: orsnaro , PC-metrics-CMDER-config   #the repos that are skipped 
           plugin_languages_limit: 8
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-recent
+          plugin_languages_sections: most-used , recently-used
           plugin_languages_threshold: 5%
           
           plugin_lines: yes
