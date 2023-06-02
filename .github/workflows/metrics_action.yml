@@ -35,7 +35,7 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: orsnaro/ps-community-website , orsnaro/CP-study , orsnaro/Bmp-Manipulation-cpp@v0.1pre_A , orsnaro/Bmp-Manipulation-cpp@v0.5pre_A , orsnaro/Bmp-Manipulation-cpp@v1.0A , orsnaro/Bmp-Manipulation-cpp@v1.5B , orsnaro/Bmp-Manipulation-cpp@v1.6B
+          plugin_languages_indepth_custom: orsnaro/ps-community-website  , orsnaro/Bmp-Manipulation-cpp@v0.1pre_A , orsnaro/Bmp-Manipulation-cpp@v0.5pre_A , orsnaro/Bmp-Manipulation-cpp@v1.0A , orsnaro/Bmp-Manipulation-cpp@v1.5B , orsnaro/Bmp-Manipulation-cpp@v1.6B
           plugin_languages_analysis_timeout: 15
           plugin_languages_details: lines
           plugin_languages_analysis_timeout_repositories: 100
