@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="618" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="598" class="">
     <defs>
         <style/>
     </defs>
@@ -22,37 +22,24 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="93.0267850363835" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="93.0267850363835" y="0" width="62.89529715853259" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="155.9220821949161" y="0" width="57.19345262001934" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="213.11553481493542" y="0" width="56.47001345743961" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="269.58554827237504" y="0" width="49.3472316517219" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="318.9327799240969" y="0" width="48.6790912321975" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="367.6118711562944" y="0" width="46.83816190961398" height="8" fill="#ff9900"/>
-                    <rect mask="url(#languages-bar)" x="414.45003306590837" y="0" width="45.54996693409156" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="124.46350006151462" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="124.46350006151462" y="0" width="113.18012022023319" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="237.64362028174781" y="0" width="97.65323398088802" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="335.29685426263586" y="0" width="96.3310509417179" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="431.62790520435374" y="0" width="28.27743850988752" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.9053437142412" y="0" width="0.0946562857587691" height="8" fill="#012456"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSV
+                                C++
                             </div>
                             <small>
-                                <div>4.56k lines</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>11.6k lines</div>
+                                <div>17.8k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -69,12 +56,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ff9900" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                SVG
+                                C
                             </div>
                             <small>
-                                <div>7.73k lines</div>
+                                <div>4.47k lines</div>
                             </small>
                         </div>
                     </section>
@@ -82,23 +69,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Python
                             </div>
                             <small>
-                                <div>17.8k lines</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Text
-                            </div>
-                            <small>
-                                <div>14.3k lines</div>
+                                <div>11.6k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,12 +91,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Markdown
+                                PowerShell
                             </div>
                             <small>
-                                <div>3.97k lines</div>
+                                <div>8 lines</div>
                             </small>
                         </div>
                     </section>
@@ -464,7 +440,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.72m out of 405m repositories</span>
+                                    <span class="gh">ranked 2.74m out of 405m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -681,7 +657,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2023, 18:14:32 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jun 2023, 18:21:45 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
