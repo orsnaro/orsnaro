@@ -28,7 +28,7 @@
                 <h3 class="field">Recently used languages</h3>
                 <small>No recent push activity found
                 
-                  over last 32 days</small>
+                  over last 33 days</small>
                 <div class="row fill-width">
                     <section>
                     </section>
@@ -70,7 +70,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">orsnaro/College-sys-mini-MSP-project</span>
+                                        <span class="repo">antonkomarev/github-profile-views-counter</span>
                                     </div>
                                 </div>
                             </section>
@@ -83,7 +83,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">lowlighter/metrics</span>
+                                        <span class="repo">orsnaro/College-sys-mini-MSP-project</span>
                                     </div>
                                 </div>
                             </section>
@@ -374,7 +374,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.74m out of 405m repositories</span>
+                                    <span class="gh">ranked 2.71m out of 405m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -591,7 +591,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jun 2023, 15:36:46 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jun 2023, 16:10:21 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
