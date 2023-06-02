@@ -12,7 +12,7 @@
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &nbsp; <sub><sub> 📍  some languages may be (HTML...etc) **ignored** (due to the fact that imp. & jupyter contains python 'already included' ) 📍</sub></sub>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &nbsp; <sub><sub> 📍 view counter does not count unique views! also some languages -HTML...etc- may be counted but   **ignored** from the statistics 📍</sub></sub>
   
    
 ---
