@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 51.1mb of code in 9690 edited files across 1148 commits</small>
+                <small>estimation from 50.6mb of code in 9599 edited files across 1095 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="139.08344074332197" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="139.08344074332197" y="0" width="120.67497423505701" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="259.758414978379" y="0" width="112.02774810361947" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="371.78616308199844" y="0" width="59.788216204870984" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="431.57437928686943" y="0" width="28.42562071313057" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="142.7420453737981" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="142.7420453737981" y="0" width="124.96762696679936" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="267.7096723405974" y="0" width="104.2706488678843" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="371.9803212084817" y="0" width="61.91500389423833" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="433.89532510272005" y="0" width="26.104674897279885" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>11.5k lines</div>
+                                <div>11.4k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -49,7 +49,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>11.8k lines</div>
+                                <div>10.9k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -60,7 +60,7 @@
                                 C
                             </div>
                             <small>
-                                <div>3.75k lines</div>
+                                <div>3.30k lines</div>
                             </small>
                         </div>
                     </section>
@@ -434,7 +434,7 @@ workflow .yml file</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.73m out of 406m repositories</span>
+                                    <span class="gh">ranked 2.74m out of 406m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -651,7 +651,7 @@ workflow .yml file</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jun 2023, 05:14:08 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Jun 2023, 06:13:31 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
