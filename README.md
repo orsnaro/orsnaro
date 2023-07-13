@@ -22,7 +22,7 @@
 
 
 &nbsp; &nbsp; [![Linkedin](https://img.shields.io/badge/Discord%20-%20%23694D99?logo=discord)](https://www.linkedin.com/in/omar-rs)  [![Discord](https://img.shields.io/badge/LinkedIn%20-%20%233d85c6?logo=linkedin
-)](www.linkedin.com/in/omar-rs)
+)](https://www.linkedin.com/in/omar-rs)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=orsnaro&color=blue"></p>
 
