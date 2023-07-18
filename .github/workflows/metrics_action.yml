@@ -78,7 +78,7 @@ jobs:
           
           
           #testing
-          debug : yes
+          debug : no
           
        
           
