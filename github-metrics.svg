@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="508" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="608" class="">
     <defs>
         <style/>
     </defs>
@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 51.3mb of code in 9907 edited files across 1266 commits</small>
+                <small>estimation from 51.3mb of code in 9912 edited files across 1271 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.2799936331432" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="150.2799936331432" y="0" width="113.80366637176768" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="264.0836600049109" y="0" width="110.67058055616222" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="374.75424056107306" y="0" width="59.176725930258236" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="433.9309664913313" y="0" width="26.06903350866867" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.3873432273216" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="150.3873432273216" y="0" width="113.76422178585173" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="264.15156501317335" y="0" width="110.63222190426382" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="374.78378691743717" y="0" width="59.15621515477447" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="433.94000207221166" y="0" width="26.059997927788356" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -101,7 +101,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.8 characters per line of code written</li>
+                        <li>Has approximately 38.9 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -123,15 +123,39 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 7 commits in
                                         <span class="repo">orsnaro/Discord-Bot-Ai</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d437ef7</div>
-                                        <div class="message">Update README.md : enhance todo section with badges and .md formatting</div>
+                                        <div class="sha">#42bdcb0</div>
+                                        <div class="message">Merge branches 'bot_pycordv2.5B' and 'master' of https://github.com/orsnaro/Discord-Bot-Ai</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bf0720</div>
+                                        <div class="message"># fix quote exceeds max discord msg len e.g.(2000chars)#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8afb617</div>
+                                        <div class="message"># fix quote exceeds max discord msg len e.g.(2000chars)#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88ea84e</div>
+                                        <div class="message">#merge bot_pycordv2.5b with master branch : add proxy sites list for future use in remote hosts for example  in init_bot.py#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#975e233</div>
+                                        <div class="message"># add requirements.txt</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38a93aa</div>
+                                        <div class="message"># unimport deprecated aiohttp methods and classes#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3fcef8a</div>
+                                        <div class="message"># add proxy servers list in init_bot.py  incase a remote hosting needs a proxy to run the bot#</div>
                                     </div>
                                 </div>
                             </section>
@@ -148,10 +172,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">bot_pycordv2.5B</span></div>
                                     <div class="commit">
-                                        <div class="sha">#60bb811</div>
-                                        <div class="message">Update README.md : update links to discord server ( narol's island)</div>
+                                        <div class="sha">#8afb617</div>
+                                        <div class="message"># fix quote exceeds max discord msg len e.g.(2000chars)#</div>
                                     </div>
                                 </div>
                             </section>
@@ -179,7 +203,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2023, 16:10:20 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Jul 2023, 17:11:46 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
