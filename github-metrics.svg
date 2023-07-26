@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="508" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="825" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 51.3mb of code in 9965 edited files across 1306 commits</small>
+                <small>estimation from 51.3mb of code in 9967 edited files across 1308 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="151.90084863653206" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="151.90084863653206" y="0" width="115.19099485472339" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="267.0918434912554" y="0" width="108.97129701063682" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="376.0631405018923" y="0" width="58.26810110741904" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="434.33124160931135" y="0" width="25.66875839068869" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="151.93415972807693" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="151.93415972807693" y="0" width="115.17854062446092" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="267.11270035253784" y="0" width="108.95951524222096" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="376.0722155947588" y="0" width="58.261801271663096" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="434.3340168664219" y="0" width="25.665983133578077" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -101,7 +101,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 39.4 characters per line of code written</li>
+                        <li>Has approximately 39.7 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -123,15 +123,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 1 commit in
                                         <span class="repo">orsnaro/Discord-Bot-Ai</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dbc2a62</div>
-                                        <div class="message">Merge branch 'master' of https://github.com/orsnaro/Discord-Bot-Ai</div>
+                                        <div class="sha">#4e13c1f</div>
+                                        <div class="message">Update README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -143,15 +143,95 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 38 commits in
                                         <span class="repo">orsnaro/Discord-Bot-Ai</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">bot_pycordv2.5.1B</span></div>
                                     <div class="commit">
-                                        <div class="sha">#13459b1</div>
-                                        <div class="message"># edit ping command still not perfectallgit edit ping command still not perfect</div>
+                                        <div class="sha">#f67a5c7</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#860209c</div>
+                                        <div class="message">Update README.md : enhance text format</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c05e25</div>
+                                        <div class="message">Update README.md : enhance text formatting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42bdcb0</div>
+                                        <div class="message">Merge branches 'bot_pycordv2.5B' and 'master' of https://github.com/orsnaro/Discord-Bot-Ai</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bf0720</div>
+                                        <div class="message"># fix quote exceeds max discord msg len e.g.(2000chars)#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d437ef7</div>
+                                        <div class="message">Update README.md : enhance todo section with badges and .md formatting</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60bb811</div>
+                                        <div class="message">Update README.md : update links to discord server ( narol's island)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3227bbc</div>
+                                        <div class="message">Update README.md : edit todo section  ( done remote hosting task)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0168ac</div>
+                                        <div class="message">add remote hosted badge with : [`pylex-nodes`](https://free.pylexnodes.net/) host hyperlink</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88ea84e</div>
+                                        <div class="message">#merge bot_pycordv2.5b with master branch : add proxy sites list for future use in remote hosts for example  in init_bot.py#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cabd62</div>
+                                        <div class="message">edit typos  / add hyperlinks</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#273d747</div>
+                                        <div class="message">Update README.md</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f11f2a8</div>
+                                        <div class="message">adding hyperlink to `<svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36"><ellipse fill="#C63900" cx="18" cy="19.024" rx="15" ry="3.529"/><path fill="#FA743E" d="M26.276 28.276h-16c-2.486 0-4.774 1.443-5.762 3.449-.368-.415-.907-.619-1.514-.619-1.1 0-2 .935-2 1.998V36h31v-1.931c0-3.199-2.411-5.793-5.724-5.793z"/><path fill="#FFDC5D" d="M14 25v3.234c0 .004.011.007.015.011.132.237 3.737 6.739 3.989 6.739.253 0 3.854-6.502 3.985-6.739.004-.004.01-.007.01-.011V25H14z"/><path fill="#F9CA55" d="M14 27.598c1.115 1.259 2.497 1.6 4 1.6 1.502 0 2.884-.342 4-1.6v-3.2h-8v3.2z"/><path fill="#D1D3D4" d="M17.982 13.557c-2.61 0-5.654 3.198-9.115 3.885.143 1.499.597 2.619.802 4.127.337 2.477 1.73 3.27 2.843 3.601 1.602 2.116 3.305 2.026 6.164 2.026 5.483 0 8.14-3.609 8.457-9.747-3.476-.692-6.532-3.892-9.151-3.892z"/><path fill="#FFDC5D" d="M24.315 17.386c-.54-.748-1.232-1.35-2.748-1.564.569.261 1.114 1.161 1.185 1.658.071.498.142.9-.308.403-1.803-1.993-3.767-1.208-5.714-2.426-1.359-.851-1.773-1.791-1.773-1.791s-.166 1.256-2.227 2.535c-.598.371-1.31 1.197-1.706 2.417-.284.877-.196 1.659-.196 2.995 0 3.9 3.214 7.179 7.179 7.179s7.179-3.308 7.179-7.179c-.001-2.426-.255-3.374-.871-4.227z"/><path fill="#C1694F" d="M18.798 23.607h-1.595c-.22 0-.399-.178-.399-.399 0-.22.178-.399.399-.399h1.595c.22 0 .399.178.399.399-.001.221-.179.399-.399.399z"/><path fill="#662113" d="M14.809 20.815c-.441 0-.798-.357-.798-.798v-.797c0-.44.357-.798.798-.798.44 0 .798.357.798.798v.798c0 .44-.357.797-.798.797zm6.382 0c-.44 0-.798-.357-.798-.798v-.797c0-.44.357-.798.798-.798.44 0 .798.357.798.798v.798c-.001.44-.358.797-.798.797z"/><path fill="#C1694F" d="M17.997 26.465c-2.359 0-3.084-.604-3.204-.726-.22-.219-.22-.575 0-.794.212-.212.552-.218.773-.02.044.032.617.417 2.431.417 1.886 0 2.429-.416 2.435-.42.219-.218.564-.208.783.013.219.219.207.585-.012.804-.123.122-.847.726-3.206.726"/><path fill="#FA743E" d="M25.765 15.157C24.537 12.47 18.793 0 18 0s-6.537 12.47-7.765 15.157C5.415 16.001 3 17.595 3 19c6-2 11-2.443 15-2.443S27 17 33 19c0-1.405-2.415-2.999-7.235-3.843z"/><path fill="#D99E82" d="M5 36H3V11.862L2 8h4l-1 3.862z"/><circle fill="#55ACEE" cx="4" cy="6" r="3"/><circle fill="#B0F0FF" cx="3.5" cy="5.5" r="1.5"/><path fill="#FFDC5D" d="M7 30.5C7 32.433 5.657 34 4 34s-3-1.567-3-3.5S2.343 28 4 28s3 .567 3 2.5z"/></svg>Ask-the-Wizard` channel</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a80880d</div>
+                                        <div class="message">Merge pull request #1 from orsnaro/bot_pycordv2.5B
+
+merger master and bot_pycordv2.5B branches</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b539b19</div>
+                                        <div class="message">update version badge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d7d1aa4</div>
+                                        <div class="message">add note about permissions in how to use me section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bb2208f</div>
+                                        <div class="message">add how to use section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b6dbf4</div>
+                                        <div class="message">Update README.md : edit todo section add more todo and edit section format
+
+edit todo section</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74f2306</div>
+                                        <div class="message">add version badge from shields.io</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#23c10ff</div>
+                                        <div class="message">Update README.md (edit typoes)</div>
                                     </div>
                                 </div>
                             </section>
@@ -179,7 +259,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jul 2023, 23:09:44 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 27 Jul 2023, 00:10:10 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
