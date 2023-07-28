@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 51.3mb of code in 9975 edited files across 1313 commits</small>
+                <small>estimation from 51.3mb of code in 9978 edited files across 1315 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="151.07433753815565" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="151.07433753815565" y="0" width="116.47566795794937" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="267.55000549610503" y="0" width="108.3428941401857" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="375.89289963629074" y="0" width="58.586365552588056" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="434.47926518887874" y="0" width="25.52073481112122" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="150.9268488707178" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="150.9268488707178" y="0" width="116.81103892029137" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="267.7378877910092" y="0" width="108.23712270776717" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="375.9750104987764" y="0" width="58.52916970366902" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="434.50418020244535" y="0" width="25.49581979755463" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -101,7 +101,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.6 characters per line of code written</li>
+                        <li>Has approximately 37.5 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -259,7 +259,7 @@ edit todo section</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jul 2023, 04:02:56 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Jul 2023, 05:11:40 (timezone Africa/Cairo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
