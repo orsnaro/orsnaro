@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="754" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="788" class="">
     <defs>
         <style/>
     </defs>
@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 162mb of code in 24212 edited files across 1459 commits</small>
+                <small>estimation from 162mb of code in 24214 edited files across 1460 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="149.14412054700804" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="149.14412054700804" y="0" width="117.58565052490412" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="266.7297710719121" y="0" width="101.59149279824845" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="368.3212638701606" y="0" width="67.74832918118126" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="436.0695930513419" y="0" width="23.930406948658106" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="149.43924763031498" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="149.43924763031498" y="0" width="117.47401451486877" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="266.91326214518375" y="0" width="101.49504166786897" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="368.4083038130528" y="0" width="67.68400880601145" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="436.0923126190642" y="0" width="23.907687380935812" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -38,7 +38,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>13.8k lines</div>
+                                <div>13.9k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -96,7 +96,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 179 commits)</small>
+                    <small class="h-details">(computed from last 180 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -123,15 +123,23 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 3 commits in
                                         <span class="repo">orsnaro/CP-Beginner-Cheat-Sheets</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#21d4060</div>
-                                        <div class="message">Update README.md: done making the md</div>
+                                        <div class="sha">#1228fc3</div>
+                                        <div class="message"># add in pdf  if some wanted to print #</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fdbebc7</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/orsnaro/CP-Beginner-Cheat-Sheets</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ca4f61f</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/orsnaro/CP-Beginner-Cheat-Sheets</div>
                                     </div>
                                 </div>
                             </section>
@@ -150,8 +158,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#49ca4c4</div>
-                                        <div class="message">Update README.md : finishing index</div>
+                                        <div class="sha">#a3a7781</div>
+                                        <div class="message">Update README.md : finalizing md ( edit some typoes)</div>
                                     </div>
                                 </div>
                             </section>
@@ -564,7 +572,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.78m out of 58m repositories</span>
+                                    <span class="gh">ranked 2.66m out of 56m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -695,7 +703,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Aug 2023, 17:11:45 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 Aug 2023, 18:14:30 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
