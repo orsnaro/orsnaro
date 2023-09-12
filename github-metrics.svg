@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 162mb of code in 24290 edited files across 1527 commits</small>
+                <small>estimation from 162mb of code in 24292 edited files across 1528 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.8012321123021" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="147.8012321123021" y="0" width="116.18895724074441" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="263.9901893530465" y="0" width="99.72153505938755" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="363.7117244124341" y="0" width="72.79834695490815" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="436.5100713673423" y="0" width="23.489928632657758" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="147.69786031050134" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="147.69786031050134" y="0" width="116.42941780024788" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="264.1272781107492" y="0" width="99.65179007411169" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="363.77906818486093" y="0" width="72.7474319781837" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="436.5265001630446" y="0" width="23.473499836955405" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -73,7 +73,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>15.9k lines</div>
+                                <div>16k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -130,7 +130,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3cdeb85</div>
+                                        <div class="sha">#886a62d</div>
                                         <div class="message">#Auto schedualed PC Health metrics upload#</div>
                                     </div>
                                 </div>
@@ -144,14 +144,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/PC-metrics</span>
+                                        <span class="repo">orsnaro/CP-study</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">cpp_compatitive</span></div>
                                     <div class="commit">
-                                        <div class="sha">#49d5d55</div>
-                                        <div class="message">#Auto schedualed PC Health metrics upload#</div>
+                                        <div class="sha">#70890ec</div>
+                                        <div class="message">#Done: https://codeforces.com/contest/770/problem/A #</div>
                                     </div>
                                 </div>
                             </section>
@@ -564,7 +564,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.81m out of 54.5m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 45.3m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -695,7 +695,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2023, 00:10:32 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 13 Sept 2023, 01:10:22 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
