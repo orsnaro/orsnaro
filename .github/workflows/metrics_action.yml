@@ -26,6 +26,7 @@ jobs:
 
           # Options
           user: orsnaro
+          commits_authoring: Omar Rashad Salem,orsnaro,77698890+orsnaro@users.noreply.github.com
           template: classic
           base: metadata
           base_hireable: yes
@@ -35,7 +36,6 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: Omar Rashad Salem,orsnaro,77698890+orsnaro@users.noreply.github.com
           plugin_languages_indepth_custom: orsnaro/ps-community-website  , orsnaro/Bmp-Manipulation-cpp@v0.1pre_A , orsnaro/Bmp-Manipulation-cpp@v0.5pre_A , orsnaro/Bmp-Manipulation-cpp@v1.0A , orsnaro/Bmp-Manipulation-cpp@v1.5B , orsnaro/Bmp-Manipulation-cpp@v1.6B
           plugin_languages_analysis_timeout: 15
           plugin_languages_details: lines
