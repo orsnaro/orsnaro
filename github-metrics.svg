@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 165mb of code in 24555 edited files across 1555 commits</small>
+                <small>estimation from 165mb of code in 24556 edited files across 1556 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.3956207710684" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="326.3956207710684" y="0" width="49.76980176119139" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="376.1654225322598" y="0" width="41.767822632846084" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="417.93324516510586" y="0" width="32.22812597501176" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="450.1613711401176" y="0" width="9.83862885988237" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.40706763010144" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="326.40706763010144" y="0" width="49.76553762023921" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="376.1726052503406" y="0" width="41.764244079653785" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.9368493299944" y="0" width="32.225364757025766" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="450.1622140870202" y="0" width="9.837785912979827" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -96,12 +96,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 194 commits)</small>
+                    <small class="h-details">(computed from last 193 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.9 characters per line of code written</li>
+                        <li>Has approximately 35.7 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -130,8 +130,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">cpp_compatitive</span></div>
                                     <div class="commit">
-                                        <div class="sha">#193022e</div>
-                                        <div class="message">#Done: https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=false&amp;h_r=next-challenge&amp;h_v=zen #</div>
+                                        <div class="sha">#5be45a5</div>
+                                        <div class="message">#Done: https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true #</div>
                                     </div>
                                 </div>
                             </section>
@@ -150,8 +150,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">cpp_compatitive</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6719439</div>
-                                        <div class="message">#Done: https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=false #</div>
+                                        <div class="sha">#193022e</div>
+                                        <div class="message">#Done: https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=false&amp;h_r=next-challenge&amp;h_v=zen #</div>
                                     </div>
                                 </div>
                             </section>
@@ -564,7 +564,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.80m out of 52.1m repositories</span>
+                                    <span class="gh">ranked 2.56m out of 43.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -647,7 +647,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.75m out of 52.1m repositories</span>
+                                    <span class="gh">ranked 4.42m out of 43.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -744,7 +744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Sept 2023, 19:14:51 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Sept 2023, 20:10:55 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
