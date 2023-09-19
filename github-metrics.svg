@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 165mb of code in 24559 edited files across 1557 commits</small>
+                <small>estimation from 165mb of code in 24560 edited files across 1558 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.35752728220785" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="326.35752728220785" y="0" width="49.75798446869529" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="376.1155117509032" y="0" width="41.757905322358376" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="417.8734170732616" y="0" width="32.29029014115982" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="450.1637072144214" y="0" width="9.836292785578607" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="326.3494745976788" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="326.3494745976788" y="0" width="49.75675671900903" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="376.10623131668785" y="0" width="41.756874970029884" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.8631062867177" y="0" width="32.30084363257825" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="450.16394991929593" y="0" width="9.836050080703995" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -130,8 +130,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2eac5bf</div>
-                                        <div class="message"># edited grep in all command including it self to be colored by default #</div>
+                                        <div class="sha">#49dcc1e</div>
+                                        <div class="message"># delete `gptp` cmder alias and create `gptph` alias (not to confuse poe old alias with new gpt chat web site `www.phind.com`#</div>
                                     </div>
                                 </div>
                             </section>
@@ -144,14 +144,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/CP-study</span>
+                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">cpp_compatitive</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5be45a5</div>
-                                        <div class="message">#Done: https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true #</div>
+                                        <div class="sha">#2eac5bf</div>
+                                        <div class="message"># edited grep in all command including it self to be colored by default #</div>
                                     </div>
                                 </div>
                             </section>
@@ -564,7 +564,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.74m out of 52m repositories</span>
+                                    <span class="gh">ranked 2.85m out of 46.9m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -647,7 +647,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.68m out of 52m repositories</span>
+                                    <span class="gh">ranked 4.60m out of 46.9m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -744,7 +744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2023, 01:10:41 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2023, 02:10:52 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
