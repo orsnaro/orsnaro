@@ -16,7 +16,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 165mb of code in 24560 edited files across 1558 commits</small>
+                <small>estimation from 165mb of code in 24562 edited files across 1560 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -130,8 +130,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#49dcc1e</div>
-                                        <div class="message"># delete `gptp` cmder alias and create `gptph` alias (not to confuse poe old alias with new gpt chat web site `www.phind.com`#</div>
+                                        <div class="sha">#a2e2420</div>
+                                        <div class="message"># add easier cmd command to create new file than type nul .. method #</div>
                                     </div>
                                 </div>
                             </section>
@@ -150,8 +150,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2eac5bf</div>
-                                        <div class="message"># edited grep in all command including it self to be colored by default #</div>
+                                        <div class="sha">#4f059c3</div>
+                                        <div class="message"># ignore `tst` dir#</div>
                                     </div>
                                 </div>
                             </section>
@@ -564,7 +564,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.85m out of 46.9m repositories</span>
+                                    <span class="gh">ranked 2.85m out of 56.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -647,7 +647,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.60m out of 46.9m repositories</span>
+                                    <span class="gh">ranked 4.56m out of 56.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -744,7 +744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2023, 02:10:52 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Sept 2023, 03:50:22 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
