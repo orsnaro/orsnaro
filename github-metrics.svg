@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 165mb of code in 24572 edited files across 1568 commits</small>
+                <small>estimation from 165mb of code in 24582 edited files across 1573 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.90582440721244" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="325.90582440721244" y="0" width="50.24174100386954" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="376.147565411082" y="0" width="41.70010930323488" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="417.8476747143169" y="0" width="32.329646654395816" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="450.1773213687127" y="0" width="9.822678631287319" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.42092250042015" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="325.42092250042015" y="0" width="50.85140350828327" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="376.2723260087034" y="0" width="41.638065421228895" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.9103914299323" y="0" width="32.28154469936893" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="450.1919361293012" y="0" width="9.808063870698787" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -73,7 +73,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>16.6k lines</div>
+                                <div>16.9k lines</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -101,7 +101,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.3 characters per line of code written</li>
+                        <li>Has approximately 31.2 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -124,14 +124,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/CP-Beginner-Cheat-Sheets</span>
+                                        <span class="repo">orsnaro/CP-study</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">cpp_compatitive</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6c777df</div>
-                                        <div class="message">Update README.md</div>
+                                        <div class="sha">#85aba95</div>
+                                        <div class="message">#todo: // https://codeforces.com/contest/1873/problem/E #</div>
                                     </div>
                                 </div>
                             </section>
@@ -144,14 +144,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
+                                        <span class="repo">orsnaro/CP-study</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">cpp_compatitive</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1cdf3f2</div>
-                                        <div class="message"># edit `comp` cmder alise to also open my cp cheat sheet and disable `desk` alias from opening the explorer after cd to desktop #</div>
+                                        <div class="sha">#c37c924</div>
+                                        <div class="message">#Done: // https://codeforces.com/contest/1873/problem/D #</div>
                                     </div>
                                 </div>
                             </section>
@@ -564,7 +564,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.85m out of 53.2m repositories</span>
+                                    <span class="gh">ranked 2.75m out of 51.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -647,7 +647,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.34m out of 53.2m repositories</span>
+                                    <span class="gh">ranked 4.66m out of 51.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -744,7 +744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Sept 2023, 22:09:13 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Sept 2023, 23:11:23 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
