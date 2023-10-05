@@ -16,17 +16,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 165mb of code in 24604 edited files across 1588 commits</small>
+                <small>estimation from 165mb of code in 24605 edited files across 1589 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.3671707142844" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="324.3671707142844" y="0" width="52.027721385227224" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="376.3948920995116" y="0" width="41.49678269446794" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="417.8916747939795" y="0" width="32.33354121981867" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="450.2252160137982" y="0" width="9.774783986201765" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.35464033519014" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="324.35464033519014" y="0" width="52.025711542273854" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="376.380351877464" y="0" width="41.49517966412054" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="417.87553154158456" y="0" width="32.35006207438795" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="450.2255936159725" y="0" width="9.774406384027532" height="8" fill="#555555"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -84,7 +84,7 @@
                                 Batchfile
                             </div>
                             <small>
-                                <div>7.81k lines</div>
+                                <div>7.82k lines</div>
                             </small>
                         </div>
                     </section>
@@ -96,7 +96,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 74 commits)</small>
+                    <small class="h-details">(computed from last 75 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -130,8 +130,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#60d4b81</div>
-                                        <div class="message"># remap discord cmder aliased after discord ban msg gone# add `.bat` for dicsord webapp #</div>
+                                        <div class="sha">#d59d09e</div>
+                                        <div class="message"># edit twitch cmder alias to enable search twitch not only open the twitch platform + edit brave cmder alias to allow search also#</div>
                                     </div>
                                 </div>
                             </section>
@@ -144,14 +144,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/Discord-Bot-Ai</span>
+                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">bot_pycordv2.5.xB</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5bb5b4c</div>
-                                        <div class="message"># add request limit var to api quote providerthat is not async + fix not sending quote if quote provider id = 0  #</div>
+                                        <div class="sha">#60d4b81</div>
+                                        <div class="message"># remap discord cmder aliased after discord ban msg gone# add `.bat` for dicsord webapp #</div>
                                     </div>
                                 </div>
                             </section>
@@ -238,7 +238,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.47m out of 121m users</span>
+                                    <span class="gh">ranked 3.47m out of 118m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -409,7 +409,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.59m out of 121m users</span>
+                                    <span class="gh">ranked 1.59m out of 118m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -564,7 +564,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.82m out of 47.6m repositories</span>
+                                    <span class="gh">ranked 2.83m out of 47.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -647,7 +647,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.63m out of 47.6m repositories</span>
+                                    <span class="gh">ranked 4.53m out of 47.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -744,7 +744,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2023, 16:16:49 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2023, 17:11:05 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
