@@ -71,7 +71,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 56.5 characters per line of code written</li>
+                        <li>Has approximately 56.4 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -94,14 +94,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
+                                        <span class="repo">orsnaro/Discord-Bot-Ai</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">bot_pycordv2.5.xB</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a832825</div>
-                                        <div class="message"># add new twitter-disord repo cmder alias + temp cmder alias `ocd` until i fix `cdv` not working with path containing white chars#</div>
+                                        <div class="sha">#2052df5</div>
+                                        <div class="message"># moved status and activity from on_read() body to bot constructor (more stable as api devs advices)#</div>
                                     </div>
                                 </div>
                             </section>
@@ -114,14 +114,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/Discord-Bot-Ai</span>
+                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">bot_pycordv2.5.xB</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4b10373</div>
-                                        <div class="message"># edit `keys.py` all creds files must be their not the first file only ( if any is missing use  cred saved in sys virt env vars )#</div>
+                                        <div class="sha">#a832825</div>
+                                        <div class="message"># add new twitter-disord repo cmder alias + temp cmder alias `ocd` until i fix `cdv` not working with path containing white chars#</div>
                                     </div>
                                 </div>
                             </section>
@@ -572,7 +572,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.89m out of 95m repositories</span>
+                                    <span class="gh">ranked 2.89m out of 86.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -655,7 +655,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.02m out of 95m repositories</span>
+                                    <span class="gh">ranked 5.02m out of 86.6m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -752,7 +752,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2023, 16:11:46 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2023, 17:09:48 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
