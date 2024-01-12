@@ -583,7 +583,7 @@ Replace some formatting with GitHub new note blockquote</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.94m out of 51.9m repositories</span>
+                                    <span class="gh">ranked 2.99m out of 52.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -666,7 +666,7 @@ Replace some formatting with GitHub new note blockquote</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.01m out of 51.9m repositories</span>
+                                    <span class="gh">ranked 4.84m out of 52.2m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -763,7 +763,7 @@ Replace some formatting with GitHub new note blockquote</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2024, 10:15:36 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2024, 11:12:20 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
