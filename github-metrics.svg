@@ -210,7 +210,7 @@ Reformatting newly added GitHub quote blocks feature</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.65m out of 126m users</span>
+                                    <span class="gh">ranked 3.65m out of 128m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -419,7 +419,7 @@ Reformatting newly added GitHub quote blocks feature</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.49m out of 126m users</span>
+                                    <span class="gh">ranked 1.49m out of 128m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -612,7 +612,7 @@ Reformatting newly added GitHub quote blocks feature</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.99m out of 50.2m repositories</span>
+                                    <span class="gh">ranked 2.92m out of 55.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -695,7 +695,7 @@ Reformatting newly added GitHub quote blocks feature</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.03m out of 50.2m repositories</span>
+                                    <span class="gh">ranked 4.93m out of 55.8m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -792,7 +792,7 @@ Reformatting newly added GitHub quote blocks feature</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2024, 00:11:28 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jan 2024, 01:12:42 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
