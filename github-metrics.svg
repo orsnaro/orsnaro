@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.51517302573205" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="163.51517302573205" y="0" width="112.6360248447205" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="276.15119787045256" y="0" width="84.73469387755102" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="360.88589174800353" y="0" width="62.31978704525289" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="423.2056787932564" y="0" width="27.999290150842945" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="451.2049689440994" y="0" width="8.79503105590062" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.3795329058241" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="163.3795329058241" y="0" width="112.54259031119568" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="275.92212321701976" y="0" width="84.66440422904174" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="360.58652744606155" y="0" width="62.64967320059886" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="423.2362006466604" y="0" width="27.97606400611814" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="451.2122646527786" y="0" width="8.787735347221473" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -84,14 +84,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
+                                        <span class="repo">orsnaro/CP-study</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">cpp_compatitive</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3c95e8a</div>
-                                        <div class="message">Update save_N_push_solved_prob.bat: all pathes of done probs vis the variable not literals</div>
+                                        <div class="sha">#cebdc36</div>
+                                        <div class="message">Delete tst_probs directory: dumy dir</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,15 +103,16 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">orsnaro/My-Configs-Cmder</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d5a4e6b</div>
-                                        <div class="message"># edit termina bind in visual studio `shortcuts.md` + add more to new nvim shortcuts section#</div>
+                                        <div class="sha">#b61f974</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/orsnaro/My-Configs-Cmder
+updating add to do and push solved problems batch script to be more usefull to others#</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +412,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.06m out of 84.8m repositories</span>
+                                    <span class="gh">ranked 3.06m out of 88.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -457,7 +458,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.18m out of 84.8m repositories</span>
+                                    <span class="gh">ranked 5.18m out of 88.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -545,7 +546,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Mar 2024, 05:12:40 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Mar 2024, 06:12:59 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
