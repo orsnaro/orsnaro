@@ -18,17 +18,18 @@
 ---
 
 
-> ##### Get in touch with me: 
+> #### 🔗 Get in touch with me: 
 
 
-&nbsp; &nbsp; [![Discord](https://img.shields.io/badge/Discord%20-%20%23694D99?logo=discord)](https://discord.com/invite/Y23B7R3FPq) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20%233d85c6?logo=linkedin)](https://www.linkedin.com/in/omar-rs)
-[![GitHubGist](https://img.shields.io/badge/GitHub%20Gist-black?logo=gitbook&logoColor=white)](https://gist.github.com/orsnaro)
-[![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=red&color=white)](https://www.youtube.com/channel/UC1_2q6N_ulxYp-Nby0sFUaA)
-[![HackerRank](https://img.shields.io/badge/HackerRank-red?logo=hackerrank&logoColor=14ab4a&color=000000)](https://www.hackerrank.com/Omar1xd)
-[![CODEFORCES](https://img.shields.io/badge/CodeForces-red?logo=codeforces&logoColor=red&color=black)](https://codeforces.com/profile/omarrs)
-[![CODECHEF](https://img.shields.io/badge/CODECHEF-red?logo=codechef&logoColor=68391b&color=white)](https://www.codechef.com/users/omarrs)
-[![Vjudge](https://img.shields.io/badge/Vjudge-red?logo=circle&logoColor=yellow&color=white)](https://vjudge.net/user/orsnarol)
+&nbsp; &nbsp; [![Discord](https://img.shields.io/badge/Discord%20-%20%23694D99?style=flat-square&logo=discord)](https://discord.com/invite/Y23B7R3FPq) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20%233d85c6?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omar-rs)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:omar1xd@gmail.com)
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=flat-square&&logo=youtube&logoColor=red&color=white)](https://www.youtube.com/channel/UC1_2q6N_ulxYp-Nby0sFUaA)
+[![CODECHEF](https://img.shields.io/badge/CODECHEF-red?style=flat-square&logo=codechef&logoColor=68391b&color=white)](https://www.codechef.com/users/omarrs)
+[![Vjudge](https://img.shields.io/badge/Vjudge-red?style=flat-square&logo=circle&logoColor=yellow&color=white)](https://vjudge.net/user/orsnarol)
+[![GitHubGist](https://img.shields.io/badge/GitHub%20Gist-black?style=flat-square&logo=gitbook&logoColor=white)](https://gist.github.com/orsnaro)
+[![HackerRank](https://img.shields.io/badge/HackerRank-red?style=flat-square&logo=hackerrank&logoColor=14ab4a&color=000000)](https://www.hackerrank.com/Omar1xd)
+[![CODEFORCES](https://img.shields.io/badge/CodeForces-red?style=flat-square&logo=codeforces&logoColor=red&color=black)](https://codeforces.com/profile/omarrs)
 
 
 
