@@ -90,8 +90,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">ATT_OSC_noSteam</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15b3fc6</div>
-                                        <div class="message"># disabling SteamVR and add important edits to original Apriltag Tracker Code (First Override Attempt)#</div>
+                                        <div class="sha">#89ad24e</div>
+                                        <div class="message"># done: setup apriltag to work with target: UNITY VR APP (release v1.0 and merging to main soon) + fix: april tracker loop was stopping while testing fixed #</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,8 +110,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">ATT_OSC_noSteam</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6d94e97</div>
-                                        <div class="message">Update README.md: add Apriltag Trackers noSteam v1.0 Notes + fix some typoes + add todoes#</div>
+                                        <div class="sha">#15b3fc6</div>
+                                        <div class="message"># disabling SteamVR and add important edits to original Apriltag Tracker Code (First Override Attempt)#</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +411,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.09m out of 61.6m repositories</span>
+                                    <span class="gh">ranked 3.09m out of 84.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -457,7 +457,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.20m out of 61.6m repositories</span>
+                                    <span class="gh">ranked 5.20m out of 84.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -545,7 +545,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Apr 2024, 17:11:27 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2024, 18:14:13 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
