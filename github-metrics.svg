@@ -84,7 +84,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">MonerMo/PORT-DIO-Drivers-AUTOSAR-Implementation-Project</span>
+                                        <span class="repo">glzr-io/glazewm</span>
                                     </div>
                                 </div>
                             </section>
@@ -97,7 +97,7 @@
                                     </svg>
                                     <div class="content">
                                         Starred
-                                        <span class="repo">nlohmann/json</span>
+                                        <span class="repo">MonerMo/PORT-DIO-Drivers-AUTOSAR-Implementation-Project</span>
                                     </div>
                                 </div>
                             </section>
@@ -231,7 +231,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.7537688442211 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="61.53266331658291 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -250,7 +250,7 @@
                                     <span class="prefix"></span>
                                     Stargazer
                                 </div>
-                                <div class="text">Starred 79 repositories</div>
+                                <div class="text">Starred 80 repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -531,7 +531,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Apr 2024, 19:10:23 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Apr 2024, 20:14:46 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
