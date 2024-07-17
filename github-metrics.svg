@@ -90,8 +90,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#df3f07e</div>
-                                        <div class="message">#Done: https://www.hackerrank.com/challenges/iterables-and-iterators/problem #</div>
+                                        <div class="sha">#eca76ea</div>
+                                        <div class="message">#Done: https://www.hackerrank.com/challenges/ginorts/problem #</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,8 +110,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e95b5ae</div>
-                                        <div class="message">#Done: https://www.hackerrank.com/challenges/virtual-functions/problem #</div>
+                                        <div class="sha">#df3f07e</div>
+                                        <div class="message">#Done: https://www.hackerrank.com/challenges/iterables-and-iterators/problem #</div>
                                     </div>
                                 </div>
                             </section>
@@ -545,7 +545,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2024, 00:12:41 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jul 2024, 01:13:07 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
