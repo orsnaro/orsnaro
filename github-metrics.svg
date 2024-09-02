@@ -90,8 +90,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7262a0f</div>
-                                        <div class="message">add names to lists, fatma one typeracer win at 23wpm +5ponits, adam dweir one win at type racer ??wpm  +5points (vjudge points to do for all)#</div>
+                                        <div class="sha">#4936f61</div>
+                                        <div class="message">fix back button not working in pagination bar  + empty extra lists#</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,8 +110,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1cc0f01</div>
-                                        <div class="message">fix changing first page to `index.html` missed up the pagination js function</div>
+                                        <div class="sha">#7262a0f</div>
+                                        <div class="message">add names to lists, fatma one typeracer win at 23wpm +5ponits, adam dweir one win at type racer ??wpm  +5points (vjudge points to do for all)#</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +411,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.27m out of 213m repositories</span>
+                                    <span class="gh">ranked 3.27m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -457,7 +457,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.36m out of 213m repositories</span>
+                                    <span class="gh">ranked 5.36m out of 209m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -545,7 +545,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2024, 19:17:57 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2024, 20:12:03 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
