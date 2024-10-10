@@ -83,17 +83,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">orsnaro/stars_techno</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">orsnaro/future-techno-data</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6ed4634</div>
-                                        <div class="message">Update scores_g2.html
-
-done update detailed scores for wave 2 web (Except vjudge and quizizz)</div>
+                                        <div class="sha">#56b6996</div>
+                                        <div class="message">update session3 notes for group web wave 4 #</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ccd35d</div>
+                                        <div class="message">clean unneeded files in extra files dir #</div>
                                     </div>
                                 </div>
                             </section>
@@ -105,19 +107,17 @@ done update detailed scores for wave 2 web (Except vjudge and quizizz)</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">orsnaro/future-techno-data</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">orsnaro/stars_techno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2382328</div>
-                                        <div class="message">done updating points for group php wave1 web for. clean extra score logging files#</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#125f185</div>
-                                        <div class="message">push laptop updated content to remote#</div>
+                                        <div class="sha">#6ed4634</div>
+                                        <div class="message">Update scores_g2.html
+
+done update detailed scores for wave 2 web (Except vjudge and quizizz)</div>
                                     </div>
                                 </div>
                             </section>
@@ -417,7 +417,7 @@ done update detailed scores for wave 2 web (Except vjudge and quizizz)</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.31m out of 217m repositories</span>
+                                    <span class="gh">ranked 3.31m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -463,7 +463,7 @@ done update detailed scores for wave 2 web (Except vjudge and quizizz)</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.41m out of 217m repositories</span>
+                                    <span class="gh">ranked 5.41m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -551,7 +551,7 @@ done update detailed scores for wave 2 web (Except vjudge and quizizz)</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Oct 2024, 05:46:49 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Oct 2024, 06:19:48 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
