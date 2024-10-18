@@ -90,8 +90,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#12dbc05</div>
-                                        <div class="message">push from laptop to remote#</div>
+                                        <div class="sha">#0f06cd1</div>
+                                        <div class="message">only remainig notes for wave 3 web #</div>
                                     </div>
                                 </div>
                             </section>
@@ -104,16 +104,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/stars_techno</span>
+                                        <span class="repo">orsnaro/future-techno-data</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#590e4a1</div>
-                                        <div class="message">Update scores_p1_mot_php.html
-
-updagte moataz score</div>
+                                        <div class="sha">#12dbc05</div>
+                                        <div class="message">push from laptop to remote#</div>
                                     </div>
                                 </div>
                             </section>
@@ -413,7 +411,7 @@ updagte moataz score</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.33m out of 217m repositories</span>
+                                    <span class="gh">ranked 3.33m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -459,7 +457,7 @@ updagte moataz score</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 217m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -547,7 +545,7 @@ updagte moataz score</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Oct 2024, 21:19:29 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Oct 2024, 22:12:13 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
