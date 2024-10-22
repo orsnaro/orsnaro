@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="921" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="971" class="">
     <defs>
         <style/>
     </defs>
@@ -83,15 +83,27 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">orsnaro/future-techno-data</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">orsnaro/stars_techno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ceeb138</div>
-                                        <div class="message">update extra data dir#</div>
+                                        <div class="sha">#22633ac</div>
+                                        <div class="message">done sum all points until before s10 w1 w2 w3 and until before s5 for web wave4#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bd39e70</div>
+                                        <div class="message">done detailed points for all groups until before s10 # in session8_challenges `C` probably fatma,eldanasory,omar got it from gpt but omar is 100% gpt so he will get +1p only##</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7902312</div>
+                                        <div class="message">done detailed vjudge scores for web wave 1 (session7_challenges contest)#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1f28b3</div>
+                                        <div class="message">updated all detailed scores for we groups 1,2,3 and jana and moataz private sessions except vjudge for group 1 php (this is the points until before s10 + more details in techno repo commits history)##</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,8 +122,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ebf28eb</div>
-                                        <div class="message">update notes#</div>
+                                        <div class="sha">#ceeb138</div>
+                                        <div class="message">update extra data dir#</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +423,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.33m out of 216m repositories</span>
+                                    <span class="gh">ranked 3.33m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -457,7 +469,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.42m out of 216m repositories</span>
+                                    <span class="gh">ranked 5.42m out of 219m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -545,7 +557,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2024, 04:07:50 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2024, 05:48:53 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
