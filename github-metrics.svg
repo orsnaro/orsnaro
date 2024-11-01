@@ -90,10 +90,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d08970f</div>
-                                        <div class="message">Update scores_p1_mot_php.html
-
-explained and solved challenge 2 problem d</div>
+                                        <div class="sha">#0e38a70</div>
+                                        <div class="message">update wave 4 scores until before session6#</div>
                                     </div>
                                 </div>
                             </section>
@@ -106,16 +104,14 @@ explained and solved challenge 2 problem d</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/stars_techno</span>
+                                        <span class="repo">orsnaro/future-techno-data</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#417dd68</div>
-                                        <div class="message">Update scores_p1_mot_php.html
-
- 1 point for explaining vjudge problem c challenge 2 + 2 points for solution</div>
+                                        <div class="sha">#7d95c08</div>
+                                        <div class="message">update extra data and points log text files #</div>
                                     </div>
                                 </div>
                             </section>
@@ -415,7 +411,7 @@ explained and solved challenge 2 problem d</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.34m out of 215m repositories</span>
+                                    <span class="gh">ranked 3.34m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -461,7 +457,7 @@ explained and solved challenge 2 problem d</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.43m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.43m out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -549,7 +545,7 @@ explained and solved challenge 2 problem d</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2024, 16:13:43 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 17:15:16 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
