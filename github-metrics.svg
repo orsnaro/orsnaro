@@ -84,14 +84,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/future-techno-data</span>
+                                        <span class="repo">orsnaro/stars_techno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#821a01b</div>
-                                        <div class="message">#</div>
+                                        <div class="sha">#d08970f</div>
+                                        <div class="message">Update scores_p1_mot_php.html
+
+explained and solved challenge 2 problem d</div>
                                     </div>
                                 </div>
                             </section>
@@ -104,14 +106,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/future-techno-data</span>
+                                        <span class="repo">orsnaro/stars_techno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#05550a8</div>
-                                        <div class="message">done tasks and s5 notes for  web wave4 group#</div>
+                                        <div class="sha">#417dd68</div>
+                                        <div class="message">Update scores_p1_mot_php.html
+
+ 1 point for explaining vjudge problem c challenge 2 + 2 points for solution</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +415,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.34m out of 211m repositories</span>
+                                    <span class="gh">ranked 3.34m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -457,7 +461,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.43m out of 211m repositories</span>
+                                    <span class="gh">ranked 5.43m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -545,7 +549,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2024, 11:15:31 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Nov 2024, 12:16:14 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
