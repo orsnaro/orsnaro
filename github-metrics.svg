@@ -84,14 +84,16 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/future-techno-data</span>
+                                        <span class="repo">orsnaro/stars_techno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9a9c543</div>
-                                        <div class="message">update php mail exercise notes#</div>
+                                        <div class="sha">#ea5495a</div>
+                                        <div class="message">Update index.html
+
+ahmed slema had 2 extra points</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,8 +112,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a99f273</div>
-                                        <div class="message">update all w1 w2 w3 web groups s10 notes and tasks#</div>
+                                        <div class="sha">#9a9c543</div>
+                                        <div class="message">update php mail exercise notes#</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +413,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.34m out of 221m repositories</span>
+                                    <span class="gh">ranked 3.34m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -457,7 +459,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.43m out of 221m repositories</span>
+                                    <span class="gh">ranked 5.43m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -545,7 +547,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Nov 2024, 09:13:38 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Nov 2024, 10:17:43 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
