@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="921" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
     <defs>
         <style/>
     </defs>
@@ -83,15 +83,19 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
                                         <span class="repo">orsnaro/future-techno-data</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4a19fa1</div>
-                                        <div class="message">commit updates from pc to remote#</div>
+                                        <div class="sha">#6bf0164</div>
+                                        <div class="message">remove uneeded extra data#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9fd321</div>
+                                        <div class="message">update score data info #</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,8 +114,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5e03b01</div>
-                                        <div class="message">push from laptop to remote#</div>
+                                        <div class="sha">#4a19fa1</div>
+                                        <div class="message">commit updates from pc to remote#</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +415,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.35m out of 220m repositories</span>
+                                    <span class="gh">ranked 3.35m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -457,7 +461,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.44m out of 220m repositories</span>
+                                    <span class="gh">ranked 5.44m out of 215m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -545,7 +549,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2024, 20:17:19 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2024, 21:12:13 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
