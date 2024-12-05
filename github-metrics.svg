@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="921" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1254" class="">
     <defs>
         <style/>
     </defs>
@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.40626173352973" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="168.40626173352973" y="0" width="130.96743160949038" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="299.3736933430201" y="0" width="66.86520076694238" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="366.2388941099625" y="0" width="57.87826678130811" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="424.1171608912706" y="0" width="20.155832383542286" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="444.27299327481285" y="0" width="15.727006725187126" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.5597198536204" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="168.5597198536204" y="0" width="130.89850689263127" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="299.4582267462517" y="0" width="66.83001136928871" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="366.28823811554037" y="0" width="57.84780697079513" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="424.1360450863355" y="0" width="20.14522489874227" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="444.2812699850778" y="0" width="15.718730014922192" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -83,15 +83,47 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 9 commits in
                                         <span class="repo">orsnaro/future-techno-data</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f927909</div>
-                                        <div class="message">update detailed points for web w5 for until before s6#</div>
+                                        <div class="sha">#02c7ffd</div>
+                                        <div class="message">update sum  points for web w1 g1 &amp; g2  for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9423310</div>
+                                        <div class="message">update detailed  points for web w1 g1 &amp; g2  for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#114b6cb</div>
+                                        <div class="message">(typerace)update sum  points for web w2 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ec7947</div>
+                                        <div class="message">update sum  points for web w2 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#34d7787</div>
+                                        <div class="message">update sum  points for web w3 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#70a5215</div>
+                                        <div class="message">update detailed  points for web w3 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5dfb94a</div>
+                                        <div class="message">update detailed  points for web w3 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f71dab0</div>
+                                        <div class="message">clean not needed files on extra_data#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#adbe3e3</div>
+                                        <div class="message">update detailed points for web w4 for until before s11#</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,15 +135,63 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">orsnaro/future-techno-data</span>
+                                        Pushed 13 commits in
+                                        <span class="repo">orsnaro/stars_techno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b9a9110</div>
-                                        <div class="message">from laptop#</div>
+                                        <div class="sha">#5977ebc</div>
+                                        <div class="message">update sum  points for web w1 g1 &amp; g2  for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#703ebd8</div>
+                                        <div class="message">update detailed  points for web w1 g1 &amp; g2  for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0352590</div>
+                                        <div class="message">(typerace)update sum  points for web w2 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6937bb</div>
+                                        <div class="message">(typerace)update sum  points for web w2 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d553f2e</div>
+                                        <div class="message">update sum  points for web w2 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21f3664</div>
+                                        <div class="message">update sum  points for web w3 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce7c5c4</div>
+                                        <div class="message">update detailed  points for web w3 for until before s15#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b721b8</div>
+                                        <div class="message">update sum points for web w4 for until before s11#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f824e4c</div>
+                                        <div class="message">update detailed points for web w4 for until before s11#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5e14b02</div>
+                                        <div class="message">update sum points for web w5 for until before s6#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d850c6e</div>
+                                        <div class="message">update detailed points for web w5 for until before s6#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#791da71</div>
+                                        <div class="message">one points for malak in web w3 wasnt summed#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b4ddb5a</div>
+                                        <div class="message">fix html errors while separating and resetting web w1 g1 &amp; g2 scores#</div>
                                     </div>
                                 </div>
                             </section>
@@ -411,7 +491,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.39m out of 215m repositories</span>
+                                    <span class="gh">ranked 3.39m out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -457,7 +537,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.48m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.48m out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -545,7 +625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2024, 21:12:02 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2024, 22:17:33 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
