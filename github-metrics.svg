@@ -84,14 +84,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/stars_techno</span>
+                                        <span class="repo">orsnaro/future-techno-data</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d0141a4</div>
-                                        <div class="message">Update scores_p1_mot_php.html: sum of motaz scores!</div>
+                                        <div class="sha">#939d4ab</div>
+                                        <div class="message">update doaa notes#</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,10 +110,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f107400</div>
-                                        <div class="message">Update scores_p1_mot_php.html: update scores
-
-update motaz scores (Detailed) he did challenges 4 late!</div>
+                                        <div class="sha">#d0141a4</div>
+                                        <div class="message">Update scores_p1_mot_php.html: sum of motaz scores!</div>
                                     </div>
                                 </div>
                             </section>
@@ -413,7 +411,7 @@ update motaz scores (Detailed) he did challenges 4 late!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.40m out of 226m repositories</span>
+                                    <span class="gh">ranked 3.40m out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -459,7 +457,7 @@ update motaz scores (Detailed) he did challenges 4 late!</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.49m out of 226m repositories</span>
+                                    <span class="gh">ranked 5.49m out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -547,7 +545,7 @@ update motaz scores (Detailed) he did challenges 4 late!</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2024, 17:14:12 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 18:17:10 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
