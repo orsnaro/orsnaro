@@ -90,8 +90,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a706e2f</div>
-                                        <div class="message">add 4 vjudge bonus points for adam (Forgot to add fot him)#</div>
+                                        <div class="sha">#bf80827</div>
+                                        <div class="message">add 2 points for ahmed kordy after he explained two GPT questions com add 2 points for ahmed kordy after he explained two GPT questions</div>
                                     </div>
                                 </div>
                             </section>
@@ -104,14 +104,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/future-techno-data</span>
+                                        <span class="repo">orsnaro/stars_techno</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b567518</div>
-                                        <div class="message">clear extra data + re counting sessions before stop (w4 11 session ~one month for intro to CS) (w5 8sessions on js ) (w3 (needs re check) arround 18session ~1.5 months was for intro and finishing css &amp; bootstrap) (w2 18 sessions (needs recheck) they stopped alot due to contest and we revised part of AI and js and cs basics in first 1.5 month ) (w1 we revised many parts of php + this group was very active wasting sometime)</div>
+                                        <div class="sha">#a706e2f</div>
+                                        <div class="message">add 4 vjudge bonus points for adam (Forgot to add fot him)#</div>
                                     </div>
                                 </div>
                             </section>
@@ -245,7 +245,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="96.58291457286433 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="97.36180904522614 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -267,7 +267,7 @@
                                     <span class="prefix"></span>
                                     Deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 125 times</div>
+                                <div class="text">Repositories have been deployed 126 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -545,7 +545,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Dec 2024, 23:12:32 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Dec 2024, 00:12:52 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
