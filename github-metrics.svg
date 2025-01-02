@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="888" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="938" class="">
     <defs>
         <style/>
     </defs>
@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.75169907900187" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="165.75169907900187" y="0" width="128.65564281233318" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="294.4073418913351" y="0" width="73.69248382463743" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="368.0998257159725" y="0" width="56.780627183307004" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="424.88045289927953" y="0" width="19.727081867828996" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="444.6075347671085" y="0" width="15.392465232891517" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.72052838458328" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="165.72052838458328" y="0" width="128.6314482746626" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="294.35197665924585" y="0" width="73.67862546959789" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="368.0306021288438" y="0" width="56.85645523166829" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="424.8870573605121" y="0" width="19.72337206066509" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="444.6104294211771" y="0" width="15.389570578822873" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -90,8 +90,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#588365c</div>
-                                        <div class="message">backup home server .zshrc configs before upgrading to ubunut 64X#</div>
+                                        <div class="sha">#4db2b20</div>
+                                        <div class="message">update .zshrc shell configs of home server backup@</div>
                                     </div>
                                 </div>
                             </section>
@@ -100,14 +100,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">dependabot/pip/requests-2.32.0</span>
-                                        in
-                                        <span class="repo">orsnaro/Discord-Bot-Ai</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#970cf48</div>
+                                        <div class="message">upadte aliases of cmder#</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb5b788</div>
+                                        <div class="message">Merge branch 'main' of https://github.com/orsnaro/My-Configs-Cmder</div>
                                     </div>
                                 </div>
                             </section>
@@ -407,7 +415,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.42m out of 223m repositories</span>
+                                    <span class="gh">ranked 3.42m out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -453,7 +461,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.51m out of 223m repositories</span>
+                                    <span class="gh">ranked 5.51m out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -541,7 +549,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Jan 2025, 06:17:25 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2025, 07:14:24 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
