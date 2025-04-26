@@ -84,14 +84,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
+                                        <span class="repo">orsnaro/Discord-Bot-Ai</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">bot_pycordv2.5.xB</span></div>
                                     <div class="commit">
-                                        <div class="sha">#39c5b4f</div>
-                                        <div class="message">update home server `.zshrc` backup + add new cmder alias to open deepseek chat#</div>
+                                        <div class="sha">#83d674d</div>
+                                        <div class="message">fix wizy couldnt run in production mode</div>
                                     </div>
                                 </div>
                             </section>
@@ -104,14 +104,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/Discord-Bot-Ai</span>
+                                        <span class="repo">orsnaro/My-Configs-Cmder</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">bot_pycordv2.5.xB</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a1685c5</div>
-                                        <div class="message">fix typo in `init_bot.py` #line262 preventing production mode from running</div>
+                                        <div class="sha">#39c5b4f</div>
+                                        <div class="message">update home server `.zshrc` backup + add new cmder alias to open deepseek chat#</div>
                                     </div>
                                 </div>
                             </section>
@@ -139,7 +139,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Apr 2025, 10:14:05 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Apr 2025, 11:18:52 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
