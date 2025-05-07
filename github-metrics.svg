@@ -90,7 +90,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">production-Home-Server</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a6b8e43</div>
+                                        <div class="sha">#579f155</div>
                                         <div class="message">Update home-server-actions.yml</div>
                                     </div>
                                 </div>
@@ -110,10 +110,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">production-Home-Server</span></div>
                                     <div class="commit">
-                                        <div class="sha">#404fa39</div>
-                                        <div class="message">Update home-server-actions.yml
-
-fix ssh connection issues</div>
+                                        <div class="sha">#164f258</div>
+                                        <div class="message">Update home-server-actions.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -141,7 +139,7 @@ fix ssh connection issues</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2025, 23:18:21 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 May 2025, 00:14:21 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
