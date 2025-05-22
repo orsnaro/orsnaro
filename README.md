@@ -30,6 +30,7 @@
 [![GitHubGist](https://img.shields.io/badge/GitHub%20Gist-black?style=flat-square&logo=gitbook&logoColor=white)](https://gist.github.com/orsnaro)
 [![HackerRank](https://img.shields.io/badge/HackerRank-red?style=flat-square&logo=hackerrank&logoColor=14ab4a&color=000000)](https://www.hackerrank.com/Omar1xd)
 [![CODEFORCES](https://img.shields.io/badge/CodeForces-red?style=flat-square&logo=codeforces&logoColor=red&color=black)](https://codeforces.com/profile/omarrs)
+[![LEETCODE](https://img.shields.io/badge/LeetCode-yellow?style=flat-square&logo=leetcode&logoColor=yellow&color=black)]([https://codeforces.com/profile/omarrs](https://leetcode.com/u/omar_rs/))
 
 
 
