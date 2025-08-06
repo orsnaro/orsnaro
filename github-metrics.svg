@@ -90,8 +90,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#990c22f</div>
-                                        <div class="message">vault backup: 2025-08-04 14:27:46</div>
+                                        <div class="sha">#d12da05</div>
+                                        <div class="message">vault backup: 2025-08-06 15:20:01</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,8 +110,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3b131ae</div>
-                                        <div class="message">vault backup: 2025-08-03 13:47:27</div>
+                                        <div class="sha">#990c22f</div>
+                                        <div class="message">vault backup: 2025-08-04 14:27:46</div>
                                     </div>
                                 </div>
                             </section>
@@ -139,7 +139,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Aug 2025, 17:21:45 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Aug 2025, 18:20:24 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
