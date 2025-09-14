@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.28009773612857" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="153.28009773612857" y="0" width="141.6340007406692" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="294.91409847679773" y="0" width="68.20961340289182" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="363.12371187968955" y="0" width="63.975300293047376" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="427.09901217273693" y="0" width="18.25934692300261" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="445.35835909573956" y="0" width="14.64164090426046" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.26498248127882" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="153.26498248127882" y="0" width="141.66539544412626" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="294.9303779254051" y="0" width="68.2028871174509" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="363.133265042856" y="0" width="63.96899156163149" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="427.1022566044875" y="0" width="18.257546332539743" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="445.35980293702727" y="0" width="14.64019706297281" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -84,14 +84,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">orsnaro/Notes_Drafts</span>
+                                        <span class="repo">orsnaro/crypts</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b16ea73</div>
-                                        <div class="message">vault auto backup: 2025-09-14 09:08:33</div>
+                                        <div class="sha">#76705d9</div>
+                                        <div class="message">vault auto backup: 2025-09-14 12:12:31</div>
                                     </div>
                                 </div>
                             </section>
@@ -110,8 +110,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#61bdc83</div>
-                                        <div class="message">vault auto backup: 2025-09-13 15:00:49</div>
+                                        <div class="sha">#b16ea73</div>
+                                        <div class="message">vault auto backup: 2025-09-14 09:08:33</div>
                                     </div>
                                 </div>
                             </section>
@@ -139,7 +139,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2025, 16:17:27 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2025, 17:12:32 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
