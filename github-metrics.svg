@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.26498248127882" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="153.26498248127882" y="0" width="141.66539544412626" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="294.9303779254051" y="0" width="68.2028871174509" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="363.133265042856" y="0" width="63.96899156163149" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="427.1022566044875" y="0" width="18.257546332539743" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="445.35980293702727" y="0" width="14.64019706297281" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.26374871453268" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="153.26374871453268" y="0" width="141.66795800370699" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="294.93170671823964" y="0" width="68.20233809149106" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="363.1340448097307" y="0" width="63.96847661807886" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="427.1025214278096" y="0" width="18.257399361240974" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="445.3599207890506" y="0" width="14.640079210949464" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -175,7 +175,7 @@ adding a documenting video for bot main features + local hosting details before 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Sept 2025, 08:16:32 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Sept 2025, 09:25:41 (timezone Africa/Cairo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
