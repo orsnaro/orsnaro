@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://github.com/orsnaro/orsnaro/blob/main/giphy.webp" width="35">, I'm Omar Rashad</h1>
 <h3 align="center">A software engineer who loves to code! </h3>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com?user=orsnaro&theme=buefy-dark)](https://git.io/streak-stats)
+&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com?user=orsnaro&theme=buefy-dark)](https://git.io/streak-stats)
 
 * 🧐   Currently Interested in Backend Engineering.
 * 🎓   B.S in Computer & Control Systems Grad Proj. [here](https://github.com/orsnaro/Reality-SimSuit-Arch) & [here](https://reality-sim-suit.vercel.app/)
@@ -23,7 +23,7 @@
   
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
- <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
+ <img max-width=10% height=auto src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=html,Jupyter%20Notebook&layout=donut">
