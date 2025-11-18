@@ -23,6 +23,7 @@
 
 &nbsp; &nbsp; [![Discord](https://img.shields.io/badge/Discord%20-%20%23694D99?style=flat-square&logo=discord)](https://discord.com/invite/Y23B7R3FPq) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20%233d85c6?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/omar-rs)
+[![Twitter Follow](https://img.shields.io/twitter/follow/orsnarol?style=social)](https://x.com/orsnarol)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=omar1xd@gmail.com)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=flat-square&&logo=youtube&logoColor=red&color=white)](https://www.youtube.com/channel/UC1_2q6N_ulxYp-Nby0sFUaA)
 [![CODECHEF](https://img.shields.io/badge/CODECHEF-red?style=flat-square&logo=codechef&logoColor=68391b&color=white)](https://www.codechef.com/users/omarrs)
