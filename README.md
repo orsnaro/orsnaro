@@ -7,7 +7,7 @@
 &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com?user=orsnaro&theme=buefy-dark)](https://git.io/streak-stats)
 
 * 🧐   Currently Interested in Backend Engineering.
-* 🎓   B.S in Computer & Control Systems Grad Proj. [here](https://github.com/orsnaro/Reality-SimSuit-Arch) & [here](https://reality-sim-suit.vercel.app/)
+* 🎓   B.S in Computer & Control Systems Grad Proj. [here](https://orsnaro.github.io/Reality-SimSuit-Arch/) & [here](https://reality-sim-suit.vercel.app/)
 * 🌱   Currently learning Docker, MongoDB, DotNet.
 * 📚   Reading 《Clean Code》
 * 💻   With 5 years' Engineering education and 2 years' development experience.
