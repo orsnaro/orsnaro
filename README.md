@@ -1,7 +1,7 @@
 <!-- <p align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark">    <img  alt="orsnaro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/orsnaro?cardType=github&theme=ocean-dark" />  
 </a> </p> -->
-<h1 align="center">Hi <img src="https://github.com/orsnaro/orsnaro/blob/main/giphy.webp" width="35">, I'm Omar Rashad</h1>
+<h1 align="center">Hi <img src="https://github.com/orsnaro/orsnaro/blob/main/giphy.webp" width="35">, I'm Omar Rashad a Software Dev💻</h1>
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com?user=orsnaro&theme=buefy-dark)](https://git.io/streak-stats)
 
