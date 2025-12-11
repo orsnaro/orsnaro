@@ -78,7 +78,7 @@
 ---
 
 
-> #### 🔗 Get in touch with me: 
+#### 🔗 Get in touch with me: 
 
 
 &nbsp; &nbsp; [![Discord](https://img.shields.io/badge/Discord%20-%20%23694D99?style=flat-square&logo=discord)](https://discord.com/invite/Y23B7R3FPq) 
