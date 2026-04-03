@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.38385343809512" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="164.38385343809512" y="0" width="132.75097288134117" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="297.1348263194363" y="0" width="69.95989942171845" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="367.0947257411547" y="0" width="59.84111420515704" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="426.9358399463118" y="0" width="17.250325746384107" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="444.18616569269585" y="0" width="15.813834307304127" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.89517897509756" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="165.89517897509756" y="0" width="132.07228892679106" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="297.9674679018886" y="0" width="69.60223227872962" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="367.56970018061827" y="0" width="59.53517894041332" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="427.1048791210316" y="0" width="17.162134156968804" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="444.2670132780004" y="0" width="15.732986721999616" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -475,7 +475,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2026, 15:00:48 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Apr 2026, 16:05:58 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
