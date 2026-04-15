@@ -4,7 +4,11 @@
 <h1 align="center">Hi <img src="https://github.com/orsnaro/orsnaro/blob/main/giphy.webp" width="35">, I'm Omar Rashad</h1>
 <h3 align="center">A software engineer who loves to code! </h3>
 
-&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com?user=orsnaro&theme=buefy-dark)](https://git.io/streak-stats)
+<!-- &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com?user=orsnaro&theme=buefy-dark)]
+(https://git.io/streak-stats) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=orsnaro&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for orsnaro" height="165" />
+</p>
 
 * 🧐   Currently Interested in Backend Engineering.
 * 🎓   Grad Project: [Arch. Diagram  Here](https://orsnaro.github.io/Reality-SimSuit-Arch/) & [Website Here](https://reality-sim-suit.vercel.app/) & [More Here](https://www.canva.com/design/DAGNWeKD49I/Ar8PWySl1M78CNMUcmHHVQ/view#31)
@@ -18,6 +22,8 @@
 <details>
   <summary><h3>Some other achievements about me~e~e</h3></summary>
   <br>
+
+
   
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
