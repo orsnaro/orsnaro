@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each 16 hour)
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule updates every 12 hours
+  schedule: [{cron: "0 */12 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: gh-metrics/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -66,8 +66,8 @@ jobs:
           plugin_habits_languages_threshold: 0%
           
           plugin_activity: yes
-          plugin_activity_limit: 2
-          plugin_activity_visibility: all #options : all , public
+          plugin_activity_limit: 5
+          plugin_activity_visibility: all #include private activity (requires token with repo scope)
           plugin_activity_skipped: orsnaro , PC-metrics , Reality-SimSuit
           #plugin_activity_ignored: #later if you want to include orsnaro repo but ignore the bot acts
 
