@@ -1,7 +1,7 @@
 <!-- <p align="center">
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark">    <img  alt="orsnaro's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/orsnaro?cardType=github&theme=ocean-dark" />  
 </a> </p> -->
-<h1 align="center">Hi <img src="./giphy.webp" width="35">, I'm Omar Rashad</h1>
+<h1 align="center">Hi <img src="https://github.com/orsnaro/orsnaro/blob/main/giphy.webp" width="35">, I'm Omar Rashad</h1>
 <h3 align="center">A software engineer who loves to code! </h3>
 
 <!-- &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &nbsp;  [![GitHub Streak](https://streak-stats.demolab.com?user=orsnaro&theme=buefy-dark)]
@@ -25,13 +25,13 @@
 
 
   
-<img align="center" src="./github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
  <img max-width=10% height=auto src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966">
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=html,Jupyter%20Notebook&layout=donut">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&count_private=true&include_all_commits=true&rank_icon=percentile&card_width=600&line_height=25&cache_seconds=7200" alt="orsnaro's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&count_private=true&include_all_commits=true&line_height=21&rank_icon=percentile&card_width=600px&line_height=90" alt="orsnaro's Github Stats" />
 </p>
   <br>
   <br>

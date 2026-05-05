@@ -12,13 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Validate METRICS_TOKEN presence
-        run: |
-          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
-            echo "METRICS_TOKEN is missing"
-            exit 1
-          fi
-          echo "METRICS_TOKEN is present"
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -87,7 +80,7 @@ jobs:
           
           
           #testing
-          debug : yes
+          debug : no
           
        
           
