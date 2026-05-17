@@ -113,7 +113,8 @@
                                         <b>smarter answer that actually uses GCD <code>recursive</code> nature and <code>mod</code> relation to GCD :</b>
                                         <code class="language-multiline language-csharp" xml:space="preserve"><span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">Solution</span> <span class="token punctuation">{</span>
     <span class="token keyword">public</span> <span class="token return-type class-name"><span class="token keyword">string</span></span> <span class="token function">GcdOfStrings</span><span class="token punctuation">(</span><span class="token class-name"><span class="token keyword">string</span></span> str1<span class="token punctuation">,</span> <span class="token class-name"><span class="token keyword">string</span></span> str2<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-<span class="token trimmed">(15 more lines were trimmed)</span></code>
+<span class="token trimmed">(16 more lines were trimmed)</span></code>
+                                        extra: fine &amp; wolf's theorem + this llm created video https://notebooklm.google.com/notebook/2c45ffc9-d773-4711-85ad-28f0a8b92b5a/artifact/7a3daa71-367e-42ec-8291-e4e3614cc193?utm_source=nlm_web_share&amp;utm_medium=google_oo&amp;utm_campaign=art_share_2&amp;utm_content=&amp;utm_smc=nlm_web_share_google_oo_art_share_2_
                                     </div>
                                 </div>
                             </section>
@@ -141,7 +142,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2026, 01:43:44 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 18 May 2026, 02:47:48 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
