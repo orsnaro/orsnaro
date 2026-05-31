@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.3522492793496" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="178.3522492793496" y="0" width="117.71047242208088" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="296.06272170143046" y="0" width="62.03354019026716" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="358.0962618916976" y="0" width="55.0590817406895" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="413.1553436323871" y="0" width="27.2270145366585" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="440.38235816904563" y="0" width="19.617641830954348" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="178.27716171693646" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="178.27716171693646" y="0" width="117.66091547799753" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="295.93807719493395" y="0" width="62.00742362969916" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="357.94550082463314" y="0" width="55.0359014766148" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="412.98140230124795" y="0" width="27.21555177035415" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="440.1969540716021" y="0" width="19.803045928397896" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -80,6 +80,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed  commits in
+                                        <span class="repo">orsnaro/CP-study</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#08ffa72</div>
+                                        <div class="message"></div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -97,26 +117,6 @@
                                         --
                                         <code>PARTITION BY machine_id ORDER BY machine_id</code>
                                         this is a bit redundant ( but I think this with abs saves more time than using order by  activity_type in the lead())
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed  commits in
-                                        <span class="repo">orsnaro/CP-study</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9483151</div>
-                                        <div class="message"></div>
                                     </div>
                                 </div>
                             </section>
@@ -144,7 +144,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2026, 14:26:40 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 31 May 2026, 16:07:38 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
