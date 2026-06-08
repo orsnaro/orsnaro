@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.37665505842423" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="177.37665505842423" y="0" width="117.06659124255333" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="294.44324630097753" y="0" width="61.69421414555675" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="356.1374604465343" y="0" width="54.75790627375418" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="410.8953667202885" y="0" width="27.392034506531846" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.28740122682035" y="0" width="21.712598773179657" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="177.2635736379508" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="177.2635736379508" y="0" width="116.99195878078248" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="294.2555324187333" y="0" width="61.65488276134346" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="355.9104151800767" y="0" width="54.7229969345204" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="410.6334121145971" y="0" width="27.374571497261346" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="438.0079836118585" y="0" width="21.992016388141487" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -84,13 +84,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed  commits in
-                                        <span class="repo">orsnaro/MIST_app</span>
+                                        <span class="repo">orsnaro/CP-study</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/prompts_related_enhancments</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4128300</div>
+                                        <div class="sha">#b306440</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -104,13 +104,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed  commits in
-                                        <span class="repo">orsnaro/MIST_app</span>
+                                        <span class="repo">orsnaro/CP-study</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">feat/graceful-explanation-search-failures</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a80dcab</div>
+                                        <div class="sha">#967481a</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -542,7 +542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2026, 13:12:18 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Jun 2026, 17:43:39 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
