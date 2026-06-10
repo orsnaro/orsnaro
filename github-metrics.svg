@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.35379513943167" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="180.35379513943167" y="0" width="114.47484637862408" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="294.82864151805575" y="0" width="60.32836193316418" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="355.15700345121996" y="0" width="53.54561743166705" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="408.702620882887" y="0" width="29.778526677809978" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="438.4811475606969" y="0" width="21.51885243930302" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="180.2623460151936" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="180.2623460151936" y="0" width="114.41680144288806" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="294.6791474580817" y="0" width="60.29777219225387" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="354.9769196503355" y="0" width="53.51846690890079" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="408.4953865592363" y="0" width="29.763427354928076" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="438.25881391416436" y="0" width="21.741186085835615" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -80,6 +80,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed  commits in
+                                        <span class="repo">orsnaro/CP-study</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#846ec93</div>
+                                        <div class="message"></div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -93,26 +113,6 @@
                                         <b>Also:</b>
                                         add ppt author determining logic and author info in ppt metadata
 calculating total slides number more accurately for the logger
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed  commits in
-                                        <span class="repo">orsnaro/MIST_app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2ab6467</div>
-                                        <div class="message"></div>
                                     </div>
                                 </div>
                             </section>
@@ -543,7 +543,7 @@ calculating total slides number more accurately for the logger
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2026, 20:51:06 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 10 Jun 2026, 23:06:34 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
