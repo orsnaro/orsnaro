@@ -89,7 +89,7 @@
                                 </div>
                                 <div class="details">
                                     <div>committed by orsnaro in <span class="repo">orsnaro/MIST_app</span></div>
-                                    <div class="comment">timings</div>
+                                    <div class="comment">timings (SYNC)</div>
                                 </div>
                             </section>
                         </div>
@@ -536,7 +536,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2026, 19:04:34 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Jun 2026, 21:58:36 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
