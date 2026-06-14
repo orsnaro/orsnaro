@@ -112,10 +112,10 @@
   <summary><h2>📊 GitHub Stats &amp; Activity</h2></summary>
   <br>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
-
-<img max-width=10% height=auto src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="">
-
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="400" align="middle">
+  <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="GIF" width="300" align="middle">
+</p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=html,Jupyter%20Notebook&layout=donut" alt="Top languages">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&count_private=true&include_all_commits=true&line_height=21&rank_icon=percentile&card_width=600px&line_height=90" alt="orsnaro's Github Stats" />
