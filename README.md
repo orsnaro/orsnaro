@@ -118,7 +118,7 @@
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=html,Jupyter%20Notebook&layout=donut" alt="Top languages">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&count_private=true&include_all_commits=true&line_height=21&rank_icon=percentile&card_width=600px&line_height=90" alt="orsnaro's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&include_all_commits=true" alt="orsnaro's Github Stats" />
 </p>
   <br>
 </details>
