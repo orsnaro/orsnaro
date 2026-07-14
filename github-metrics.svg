@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="939" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="955" class="">
     <defs>
         <style/>
     </defs>
@@ -84,13 +84,17 @@
                                     </svg>
                                     <div class="content">
                                         Pushed  commits in
-                                        <span class="repo">orsnaro/CP-study</span>
+                                        <span class="repo">orsnaro/Dotnet-Backend-non-CP-Study</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#062b997</div>
+                                        <div class="sha">#b65c79e</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f03e9c0</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -104,13 +108,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed  commits in
-                                        <span class="repo">orsnaro/CP-study</span>
+                                        <span class="repo">orsnaro/Dotnet-Backend-non-CP-Study</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7c674ad</div>
+                                        <div class="sha">#84fbb67</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -542,7 +546,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2026, 19:09:21 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Jul 2026, 20:57:49 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
