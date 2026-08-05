@@ -14,10 +14,6 @@
 
 ---
 
- <img src="/metrics.plugin.leetcode.svg" alt="LeetCode" width="400" align="middle">
-
----
-
 <details open>
     <summary><h2 class="dark" style="margin:0 0 0.3em 0;color:#4527a0;font-size:1.08em;">🛠️ Frameworks &amp; Platforms I use</h2></summary>
     <div>
