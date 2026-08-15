@@ -90,11 +90,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dc1d1ef</div>
+                                        <div class="sha">#37be76b</div>
                                         <div class="message"></div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#53d9dc9</div>
+                                        <div class="sha">#ebef6f7</div>
+                                        <div class="message"></div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e15f8cb</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -112,13 +116,9 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">fix/drawer-e2e-diagnostic</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2c4a826</div>
-                                        <div class="message"></div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7a28c2</div>
+                                        <div class="sha">#ebef6f7</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -274,7 +274,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2067077344284742 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.2915811088295683 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -646,7 +646,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2026, 23:31:55 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 16 Aug 2026, 00:30:14 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
