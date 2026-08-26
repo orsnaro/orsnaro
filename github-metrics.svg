@@ -21,12 +21,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.82419314373203" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="168.82419314373203" y="0" width="97.9831455975915" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="266.8073387413235" y="0" width="51.63721863762392" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="318.4445573789474" y="0" width="48.66798757148647" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="367.11254495043386" y="0" width="47.05583181622268" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="414.16837676665654" y="0" width="45.831623233343414" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.5767215751568" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="168.5767215751568" y="0" width="97.83951664084401" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="266.4162382160008" y="0" width="51.56152602950207" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="317.97776424550284" y="0" width="49.27094012482239" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="367.24870437032524" y="0" width="46.98685485093514" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="414.2355592212604" y="0" width="45.7644407787396" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -168,8 +168,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="4.976196379866105 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">61</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.057773369699976 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">62</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/4033</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -186,8 +186,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.6570071258907366 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">17</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="2.8133016627078384 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">18</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2105</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -214,12 +214,12 @@
                     <div class="topics">
                         <div class="label intermediate"><span class="dot">⬤</span> Database <span class="count">x24</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x22</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x12</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x10</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x13</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x11</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x9</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x6</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Sliding Window <span class="count">x5</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x5</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x5</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x4</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x2</span></div>
                     </div>
@@ -236,8 +236,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">User Activity for the Past 30 Days I</div>
-                            <div class="date">26 Aug 2026</div>
+                            <div class="title">Determine if Two Strings Are Close</div>
+                            <div class="date">27 Aug 2026</div>
                         </div>
                     </div>
                     <div class="field">
@@ -245,8 +245,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Number of Unique Subjects Taught by Each Teacher</div>
-                            <div class="date">5 Aug 2026</div>
+                            <div class="title">User Activity for the Past 30 Days I</div>
+                            <div class="date">26 Aug 2026</div>
                         </div>
                     </div>
                 </section>
@@ -302,7 +302,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5092402464065646 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.5941136208076587 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -674,7 +674,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Aug 2026, 22:11:29 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Aug 2026, 02:13:39 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
