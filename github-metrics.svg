@@ -148,27 +148,27 @@ https://leetcode.com/problems/removing-stars-from-a-string/submissions/214574140
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.922811344019729 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="5.916974624291697 329"/>
                                     <text x="60" y="50" dominant-baseline="central">73</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4055</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/4059</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.38756476683938 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="17.369565217391305 329"/>
                                     <text x="60" y="50" dominant-baseline="central">51</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/965</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/966</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.422222222222222 329"/>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="3.418989135569202 329"/>
                                     <text x="60" y="50" dominant-baseline="central">22</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2115</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/2117</text>
                                 </svg>
                                 <span class="title">Medium</span>
                             </div>
@@ -177,7 +177,7 @@ https://leetcode.com/problems/removing-stars-from-a-string/submissions/214574140
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
                                     <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="0 329"/>
                                     <text x="60" y="50" dominant-baseline="central">0</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/975</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/976</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -654,7 +654,7 @@ https://leetcode.com/problems/removing-stars-from-a-string/submissions/214574140
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2026, 08:56:31 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 20 Sept 2026, 14:06:15 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
