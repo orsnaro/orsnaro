@@ -10,7 +10,7 @@
 * 🎓   Grad Project: [Arch. Diagram  Here](https://orsnaro.github.io/Reality-SimSuit-Arch/) & [Website Here](https://reality-sim-suit.vercel.app/) & [More Here](https://www.canva.com/design/DAGNWeKD49I/Ar8PWySl1M78CNMUcmHHVQ/view#31)
 * 🌱   Currently learning Docker, MongoDB, DotNet.
 * 📚   Recently Read 《Clean Code》
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Discord Server's Tech. Channel](https://discord.com/invite/Y23B7R3FPq)
+* ✍🏻   I write my personal thoughts on Programming & Tech in my [Tech. & Discussions Channel in Discord](https://discord.com/invite/Y23B7R3FPq)
 
 ---
 
