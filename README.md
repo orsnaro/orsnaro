@@ -2,8 +2,8 @@
 <h3 align="center">A software engineer who loves to code & Find Solutions! </h3>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=github_dark&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,TeX,Java,SVG,Text,CSV,ShaderLab,QML,Shell,Batchfile&layout=donut&hide_border=true&langs_count=6&exclude_repo=orsnaro,PC-metrics" alt="Top languages" height="200" />
-  <img src="https://streak-stats.demolab.com?user=orsnaro&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for orsnaro" height="200" />
+  <img src="/profile/top-langs.svg" alt="Top languages" height="200" />
+  <img src="/profile/streak.svg" alt="GitHub streak stats for orsnaro" height="200" />
 </p>
 <p align="center"><sub>Selected markup/configuration and shell scripting languages are excluded; config backups are ignored, but cmder/bin tools remain eligible.</sub></p>
 
@@ -115,7 +115,7 @@
   <br>
 
 <p align="center">
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&include_all_commits=true" alt="orsnaro's Github Stats" />
+<img align="center" src="/profile/stats.svg" alt="orsnaro's Github Stats" />
 </p>
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="400" align="middle">
