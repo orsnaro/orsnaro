@@ -2,9 +2,10 @@
 <h3 align="center">A software engineer who loves to code & Find Solutions! </h3>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=github_dark&hide=html,Jupyter%20Notebook,QML,Shell&layout=donut&hide_border=true" alt="Top languages" height="200" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=github_dark&hide=html,Jupyter%20Notebook,QML,Shell,CSS&layout=donut&hide_border=true" alt="Top languages" height="200" />
   <img src="https://streak-stats.demolab.com?user=orsnaro&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for orsnaro" height="200" />
 </p>
+<p align="center"><sub>Markup and shell scripting languages are excluded from the stats.</sub></p>
 
 * 🧐   Currently Interested in Backend Engineering.
 * 🎓   Grad Project: [Arch. Diagram  Here](https://orsnaro.github.io/Reality-SimSuit-Arch/) & [Website Here](https://reality-sim-suit.vercel.app/) & [More Here](https://www.canva.com/design/DAGNWeKD49I/Ar8PWySl1M78CNMUcmHHVQ/view#31)
@@ -118,11 +119,11 @@
   <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="GIF" width="300" align="middle">
 </p>
 <p align="center">
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=html,Jupyter%20Notebook,QML,Shell&layout=donut" alt="Top languages">
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=html,Jupyter%20Notebook,QML,Shell,CSS&layout=donut" alt="Top languages">
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&include_all_commits=true" alt="orsnaro's Github Stats" />
 </p>
   <br>
 </details>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp;  &nbsp; <sub><sub> 📍 view counter does not count unique views! also some languages -HTML...etc- may be counted but   **ignored** from the statistics 📍</sub></sub>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp;  &nbsp; <sub><sub> 📍 view counter does not count unique views! also markup and shell scripting languages -HTML, CSS, QML, Shell...etc- may be counted but   **ignored** from the statistics 📍</sub></sub>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=orsnaro&color=blue" alt="Profile views"></p>
