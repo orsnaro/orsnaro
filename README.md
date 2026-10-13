@@ -5,6 +5,7 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=github_dark&hide=html,Jupyter%20Notebook,QML,Shell,CSS&layout=donut&hide_border=true" alt="Top languages" height="200" />
   <img src="https://streak-stats.demolab.com?user=orsnaro&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for orsnaro" height="200" />
 </p>
+<p align="center"><sub>Markup and shell scripting languages are excluded from the stats.</sub></p>
 
 * 🧐   Currently Interested in Backend Engineering.
 * 🎓   Grad Project: [Arch. Diagram  Here](https://orsnaro.github.io/Reality-SimSuit-Arch/) & [Website Here](https://reality-sim-suit.vercel.app/) & [More Here](https://www.canva.com/design/DAGNWeKD49I/Ar8PWySl1M78CNMUcmHHVQ/view#31)
@@ -124,5 +125,5 @@
   <br>
 </details>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp;  &nbsp; <sub><sub> 📍 view counter does not count unique views! also some languages -HTML...etc- may be counted but   **ignored** from the statistics 📍</sub></sub>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp;  &nbsp; <sub><sub> 📍 view counter does not count unique views! also markup and shell scripting languages -HTML, CSS, QML, Shell...etc- may be counted but   **ignored** from the statistics 📍</sub></sub>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=orsnaro&color=blue" alt="Profile views"></p>
