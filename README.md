@@ -115,14 +115,12 @@
   <br>
 
 <p align="center">
+<img align="center" src="https://github-stats-extended.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&include_all_commits=true" alt="orsnaro's Github Stats" />
+</p>
+<p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="400" align="middle">
   <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="GIF" width="300" align="middle">
 </p>
-<p align="center">
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,TeX,Java,SVG,Text,CSV,ShaderLab,QML,Shell,Batchfile&layout=donut&langs_count=6&exclude_repo=orsnaro,PC-metrics" alt="Top languages">
-<img align="center" src="https://github-stats-extended.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&include_all_commits=true" alt="orsnaro's Github Stats" />
-</p>
-<p align="center"><sub>Selected markup/configuration and shell scripting languages are excluded; config backups are ignored, but cmder/bin tools remain eligible.</sub></p>
   <br>
 </details>
 
