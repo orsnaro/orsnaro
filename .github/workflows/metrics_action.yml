@@ -44,7 +44,7 @@ jobs:
           plugin_languages_recent_categories: programming ,scripting #other options: markup
           plugin_languages_colors: github
           plugin_languages_ignored: Jupyter Notebook , HTML , CSS , JavaScript , TeX , java ,  SVG , Text , CSV , ShaderLab , QML , Shell , Batchfile
-          plugin_languages_skipped: orsnaro , PC-metrics , My-Configs-Cmder   #the repos that are skipped 
+          plugin_languages_skipped: orsnaro , PC-metrics   # Config paths excluded by My-Configs-Cmder/.gitattributes; cmder/bin remains eligible.
           plugin_languages_limit: 6
           plugin_languages_recent_days: 365
           plugin_languages_recent_load: 300
