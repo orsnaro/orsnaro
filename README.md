@@ -119,7 +119,7 @@
   <img src="https://camo.githubusercontent.com/d1ea2b36ec5ce6acaa5affc02204d96dedaf7e0acbd83cea6cb1024c3f5a5ded/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="GIF" width="300" align="middle">
 </p>
 <p align="center">
-<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=html,Jupyter%20Notebook,QML,Shell,CSS&layout=donut" alt="Top languages">
+<img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=ocean_dark&hide=html,Jupyter%20Notebook,QML,Shell,CSS&layout=donut&exclude_repo=My-Configs-Cmder" alt="Top languages">
 <img align="center" src="https://github-stats-extended.vercel.app/api?username=orsnaro&show_icons=true&theme=ocean_dark&include_all_commits=true" alt="orsnaro's Github Stats" />
 </p>
   <br>
