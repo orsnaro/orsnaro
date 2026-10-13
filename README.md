@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer who loves to code & Find Solutions! </h3>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=github_dark&hide=html,Jupyter%20Notebook,QML,Shell,CSS&layout=donut&hide_border=true&exclude_repo=My-Configs-Cmder" alt="Top languages" height="200" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=orsnaro&theme=github_dark&hide=html,Jupyter%20Notebook,QML,Shell,CSS&layout=donut&hide_border=true" alt="Top languages" height="200" />
   <img src="https://streak-stats.demolab.com?user=orsnaro&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for orsnaro" height="200" />
 </p>
 <p align="center"><sub>Markup and shell scripting languages are excluded from the stats.</sub></p>
