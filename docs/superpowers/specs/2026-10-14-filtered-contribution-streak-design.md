@@ -13,6 +13,11 @@ Exclude these repositories from contribution-based streak statistics and the exi
 - `orsnaro/orsnaro` (profile repository; profile content, not a project)
 - `orsnaro/stars_techno`
 - `orsnaro/Graduation-Projects-Archive`
+- `orsnaro/Notes_Drafts`
+- `orsnaro/crypts`
+- `orsnaro/test`
+- `orsnaro/notion_msTodo`
+- `orsnaro/Reality-SimSuit-Grad-project-`
 
 Other accessible public/private repositories remain eligible. Preserve the existing `cmder/bin` language eligibility, other language filters, README layout, private-access guard, LeetCode/activity widgets, daily card schedule, and card styling.
 
