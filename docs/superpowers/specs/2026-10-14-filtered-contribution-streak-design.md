@@ -10,6 +10,9 @@ Exclude these repositories from contribution-based streak statistics and the exi
 
 - `orsnaro/PC-metrics`
 - `orsnaro/My-Configs-Cmder`
+- `orsnaro/orsnaro` (profile repository; profile content, not a project)
+- `orsnaro/stars_techno`
+- `orsnaro/Graduation-Projects-Archive`
 
 Other accessible public/private repositories remain eligible. Preserve the existing `cmder/bin` language eligibility, other language filters, README layout, private-access guard, LeetCode/activity widgets, daily card schedule, and card styling.
 
