@@ -12,6 +12,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Read contribution policy
+        id: policy
+        run: bash .github/scripts/profile-policy.sh
+
       - uses: gh-metrics/metrics@master
         with:
           # Your GitHub token
@@ -23,6 +31,7 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: ${{ github.ref_name }}
 
           # Options
           user: orsnaro
@@ -52,7 +61,7 @@ jobs:
           plugin_languages_threshold: 0%
           
           plugin_lines: yes
-          plugin_lines_skipped: orsnaro/PC-metrics
+          plugin_lines_skipped: ${{ steps.policy.outputs.repositories }}
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 10
           plugin_lines_sections: base

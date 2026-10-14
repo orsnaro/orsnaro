@@ -22,6 +22,10 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
+      - name: Read contribution policy
+        id: policy
+        run: bash .github/scripts/profile-policy.sh
+
       - name: Validate private stats access
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
@@ -64,10 +68,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
       # exclude_repo only filters stars; filter commit searches before the core computes rank.
-      - name: Generate stats without PC-metrics
+      - name: Generate stats with repository exclusions
         env:
           METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
           STATS_PATH: ${{ github.workspace }}/profile/stats.svg
+          EXCLUDED_REPOSITORIES: ${{ steps.policy.outputs.repositories }}
+          EXCLUDED_REPOSITORY_NAMES: ${{ steps.policy.outputs.repository_names }}
         run: |
           npm install --prefix "$RUNNER_TEMP/readme-stats" --ignore-scripts --no-save --no-audit --no-fund @stats-organization/github-readme-stats-core@2.2.1 axios@1.18.1
           cd "$RUNNER_TEMP/readme-stats"
@@ -76,14 +82,16 @@ jobs:
           import { api } from '@stats-organization/github-readme-stats-core';
           import { writeFile } from 'node:fs/promises';
 
+          const exclusions = process.env.EXCLUDED_REPOSITORIES.split(',').map(repository => `-repo:${repository}`);
           let filteredSearch = false;
           axios.interceptors.request.use(config => {
             const url = new URL(config.url, config.baseURL);
             if (url.origin === 'https://api.github.com' && url.pathname === '/search/commits') {
               const query = url.searchParams.get('q');
               if (!query) throw new Error('Missing GitHub commit search query');
-              const exclusion = '-repo:orsnaro/PC-metrics';
-              url.searchParams.set('q', query.split(/\s+/).includes(exclusion) ? query : `${query} ${exclusion}`);
+              const tokens = query.split(/\s+/);
+              const missingExclusions = exclusions.filter(exclusion => !tokens.includes(exclusion));
+              url.searchParams.set('q', missingExclusions.length ? `${query} ${missingExclusions.join(' ')}` : query);
               config.url = url.href;
               filteredSearch = true;
             }
@@ -101,7 +109,7 @@ jobs:
           });
           const result = await api({
             username: 'orsnaro', show_icons: 'true', theme: 'ocean_dark',
-            include_all_commits: 'true', disable_animations: 'true', exclude_repo: 'PC-metrics',
+            include_all_commits: 'true', disable_animations: 'true', exclude_repo: process.env.EXCLUDED_REPOSITORY_NAMES,
           }, process.env.METRICS_TOKEN);
           if (result.status !== 'success' || !filteredSearch) throw new Error('Filtered stats generation failed');
           await writeFile(process.env.STATS_PATH, result.content);
