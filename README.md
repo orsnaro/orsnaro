@@ -127,4 +127,3 @@
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp;  &nbsp; 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=orsnaro&color=blue" alt="Profile views"></p>
-<p align="center"><img src="https://views.igorkowalczyk.dev/api/badge/orsnaro" alt="Profile views"></p>
