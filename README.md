@@ -5,8 +5,8 @@
   <img src="/profile/top-langs.svg" alt="Top languages" height="200" />
   <img src="/profile/streak.svg" alt="GitHub streak stats for orsnaro" height="200" />
 </p>
-<p align="center"><sub>Selected markup/configuration and shell scripting languages are excluded; config backups are ignored, but cmder/bin tools remain eligible.</sub></p>
-<p align="center"><sub>Streaks use UTC API-visible contributions, excluding selected non-project repositories.</sub></p>
+<p align="center"><sub>Selected markup/config/shell languages excluded; backups ignored, cmder/bin eligible.</sub></p>
+<p align="center"><sub>Streaks count UTC API-visible contributions, excluding selected repos.</sub></p>
 
 * 🧐   Currently Interested in Backend Engineering.
 * 🎓   Grad Project: [Arch. Diagram  Here](https://orsnaro.github.io/Reality-SimSuit-Arch/) & [Website Here](https://reality-sim-suit.vercel.app/) & [More Here](https://www.canva.com/design/DAGNWeKD49I/Ar8PWySl1M78CNMUcmHHVQ/view#31)
