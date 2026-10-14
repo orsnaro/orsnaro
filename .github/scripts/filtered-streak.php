@@ -780,3 +780,229 @@ function collectProfileHistory(callable $request, array $policy, DateTimeImmutab
 
     return ['days' => fillContributionDates($days, $startYear, $utcNow), 'startYear' => $startYear, 'excludedIds' => $excludedIds];
 }
+
+/**
+ * @internal Accept only a well-formed, self-contained SVG, without entity expansion.
+ * @throws RuntimeException When rendering is invalid or contains active/external content.
+ */
+function validatedStreakSvg(string $svg): DOMDocument
+{
+    if ($svg === '' || !class_exists(DOMDocument::class)
+        || preg_match('/<!DOCTYPE|<!ENTITY/i', $svg) === 1
+    ) {
+        throw new RuntimeException('Invalid streak SVG.');
+    }
+    $previous = libxml_use_internal_errors(true);
+    try {
+        $document = new DOMDocument();
+        if (!$document->loadXML($svg, LIBXML_NONET) || $document->doctype !== null
+            || $document->documentElement?->localName !== 'svg'
+            || $document->documentElement?->namespaceURI !== 'http://www.w3.org/2000/svg'
+        ) {
+            throw new RuntimeException('Invalid streak SVG.');
+        }
+        $allowed = ['svg', 'g', 'rect', 'line', 'path', 'text', 'tspan', 'style', 'defs',
+            'clipPath', 'mask', 'ellipse', 'circle', 'linearGradient', 'stop', 'desc'];
+        foreach ($document->getElementsByTagName('*') as $element) {
+            if ($element->namespaceURI !== 'http://www.w3.org/2000/svg' || !in_array($element->localName, $allowed, true)) {
+                throw new RuntimeException('Invalid streak SVG.');
+            }
+            $values = $element->localName === 'style' ? [$element->textContent] : [];
+            foreach ($element->attributes as $attribute) {
+                if (str_starts_with(strtolower($attribute->localName), 'on')
+                    || (in_array(strtolower($attribute->localName), ['href', 'src'], true) && !str_starts_with($attribute->value, '#'))
+                ) {
+                    throw new RuntimeException('Invalid streak SVG.');
+                }
+                $values[] = $attribute->value;
+            }
+            foreach ($values as $value) {
+                if (preg_match('/@import|javascript:/i', $value) === 1) {
+                    throw new RuntimeException('Invalid streak SVG.');
+                }
+                preg_match_all('/url\(([^)]*)\)/i', $value, $references);
+                foreach ($references[1] as $reference) {
+                    if (preg_match('/\A\s*(?:#[A-Za-z0-9_-]+|"#[A-Za-z0-9_-]+"|\'#[A-Za-z0-9_-]+\')\s*\z/', $reference) !== 1) {
+                        throw new RuntimeException('Invalid streak SVG.');
+                    }
+                }
+            }
+        }
+        $xpath = new DOMXPath($document);
+        if ($xpath->query('//processing-instruction()')->length !== 0) {
+            throw new RuntimeException('Invalid streak SVG.');
+        }
+
+        return $document;
+    } finally {
+        libxml_clear_errors();
+        libxml_use_internal_errors($previous);
+    }
+}
+
+/**
+ * Calculate and draw only filtered dates using the pinned renderer's pure functions.
+ *
+ * @param array<string,non-negative-int> $days
+ * @param array<string,string> $options Original card options, not fetch/cache inputs.
+ * @throws RuntimeException When the renderer, counts, options, or SVG are invalid.
+ */
+function renderFilteredStreak(array $days, string $rendererPath, array $options, DateTimeImmutable $generatedAt): string
+{
+    $includePath = get_include_path();
+    $timezone = date_default_timezone_get();
+    set_error_handler(static function (int $severity, string $message, string $file, int $line): never {
+        throw new RuntimeException('Streak rendering failed.');
+    });
+    try {
+        if ($rendererPath === '' || str_contains($rendererPath, "\0") || str_contains($rendererPath, '://')) {
+            throw new RuntimeException('Streak rendering failed.');
+        }
+        $sourcePath = realpath($rendererPath . '/src');
+        if ($sourcePath === false || !is_file($sourcePath . '/stats.php') || !is_file($sourcePath . '/card.php')) {
+            throw new RuntimeException('Streak rendering failed.');
+        }
+        foreach ($options as $key => $value) {
+            if (!is_string($key) || !is_string($value)) {
+                throw new RuntimeException('Streak rendering failed.');
+            }
+        }
+        // A PNG request would invoke an external shell; this boundary is SVG-only.
+        if (($options['type'] ?? 'svg') !== 'svg') {
+            throw new RuntimeException('Streak rendering failed.');
+        }
+        $utcNow = $generatedAt->setTimezone(new DateTimeZone('UTC'));
+        $dates = fillContributionDates($days, (int) $utcNow->format('Y'), $utcNow);
+        $total = 0;
+        foreach ($dates as $weight) {
+            // Upstream number formatting accepts float, so reject lossy integer totals.
+            if ($weight > 9007199254740991 - $total) {
+                throw new RuntimeException('Streak rendering failed.');
+            }
+            $total += $weight;
+        }
+        set_include_path($sourcePath . PATH_SEPARATOR . $includePath);
+        date_default_timezone_set('UTC');
+        require_once $sourcePath . '/stats.php';
+        require_once $sourcePath . '/card.php';
+        $graphDays = [];
+        foreach ($dates as $date => $count) {
+            $graphDays[] = (object) ['date' => $date, 'contributionCount' => $count];
+        }
+        $graph = (object) ['data' => (object) ['user' => (object) ['contributionsCollection' => (object) [
+            'contributionCalendar' => (object) ['weeks' => [(object) ['contributionDays' => $graphDays]]],
+        ]]]];
+        $stats = getContributionStats(getContributionDates([$graph], 'UTC', $utcNow));
+        // The upstream stats card invents dates for empty history. Its message-card
+        // path preserves styling without supplying a fabricated first/range date.
+        $output = generateOutput($total === 0 ? 'No eligible contributions' : $stats, $options);
+        if (($output['contentType'] ?? null) !== 'image/svg+xml' || !is_string($output['body'] ?? null)
+            || ($output['status'] ?? 200) !== 200
+        ) {
+            throw new RuntimeException('Streak rendering failed.');
+        }
+        $document = validatedStreakSvg($output['body']);
+        $description = $document->createElementNS('http://www.w3.org/2000/svg', 'desc');
+        $description->appendChild($document->createTextNode(
+            'API-visible contribution records; excludes orsnaro/PC-metrics and orsnaro/My-Configs-Cmder; '
+            . 'omits discussions and opaque restricted activity. Generated '
+            . $utcNow->format('Y-m-d\TH:i:s\Z') . '; total=' . $stats['totalContributions']
+            . '; current=' . $stats['currentStreak']['length'] . '; longest=' . $stats['longestStreak']['length'] . '.',
+        ));
+        $document->documentElement->insertBefore($description, $document->documentElement->firstChild);
+        $svg = $document->saveXML($document->documentElement);
+        if ($svg === false) {
+            throw new RuntimeException('Streak rendering failed.');
+        }
+        validatedStreakSvg($svg);
+
+        return $svg . "\n";
+    } catch (Throwable) {
+        throw new RuntimeException('Streak rendering failed.');
+    } finally {
+        set_include_path($includePath);
+        date_default_timezone_set($timezone);
+        restore_error_handler();
+    }
+}
+
+/**
+ * Validate before writing; atomically replace using a complete same-directory file.
+ *
+ * @throws RuntimeException When validation or any filesystem operation fails.
+ */
+function writeFilteredStreak(string $svg, string $path): void
+{
+    validatedStreakSvg($svg);
+    if ($path === '' || str_contains($path, "\0") || str_contains($path, '://')) {
+        throw new RuntimeException('Streak write failed.');
+    }
+    $directory = realpath(dirname($path));
+    if ($directory === false || !is_dir($directory)) {
+        throw new RuntimeException('Streak write failed.');
+    }
+    $temporary = null;
+    try {
+        $temporary = @tempnam($directory, '.filtered-streak-');
+        // tempnam may silently fall back to the system temp directory; never accept it.
+        if ($temporary === false || dirname($temporary) !== $directory
+            || @file_put_contents($temporary, $svg) !== strlen($svg)
+            || !@chmod($temporary, 0644)
+            || !@rename($temporary, $directory . '/' . basename($path))
+        ) {
+            throw new RuntimeException('Streak write failed.');
+        }
+        $temporary = null;
+    } catch (Throwable) {
+        throw new RuntimeException('Streak write failed.');
+    } finally {
+        if (is_string($temporary) && is_file($temporary)) {
+            @unlink($temporary);
+        }
+    }
+}
+
+/**
+ * Collect, render, then publish; no destination is touched before complete success.
+ *
+ * @param array<string,mixed> $env Required workflow environment only.
+ * @param null|callable(string,array<string,mixed>):array<string,mixed> $request
+ * @throws RuntimeException|InvalidArgumentException When any required stage fails.
+ */
+function runFilteredStreak(array $env, ?callable $request = null, ?DateTimeImmutable $now = null): void
+{
+    foreach (['METRICS_TOKEN', 'PROFILE_STATS_POLICY', 'STREAK_RENDERER_PATH', 'STREAK_PATH', 'STREAK_OPTIONS'] as $key) {
+        if (!is_string($env[$key] ?? null) || trim($env[$key]) === '') {
+            throw new InvalidArgumentException('Invalid streak environment.');
+        }
+    }
+    $policy = loadProfilePolicy($env['PROFILE_STATS_POLICY']);
+    $now = ($now ?? new DateTimeImmutable('now', new DateTimeZone('UTC')))->setTimezone(new DateTimeZone('UTC'));
+    $token = $env['METRICS_TOKEN'];
+    $request ??= static fn(string $query, array $variables): array => githubGraphql($token, $query, $variables);
+    $history = collectProfileHistory($request, $policy, $now);
+    parse_str($env['STREAK_OPTIONS'], $options);
+    $svg = renderFilteredStreak($history['days'], $env['STREAK_RENDERER_PATH'], $options, $now);
+    writeFilteredStreak($svg, $env['STREAK_PATH']);
+}
+
+// Loading these typed boundaries from fixtures must never query or publish anything.
+if (PHP_SAPI === 'cli' && isset($_SERVER['SCRIPT_FILENAME']) && @realpath($_SERVER['SCRIPT_FILENAME']) === __FILE__) {
+    set_error_handler(static function (int $severity, string $message, string $file, int $line): never {
+        throw new RuntimeException('Filtered streak generation failed.');
+    });
+    try {
+        runFilteredStreak([
+            'METRICS_TOKEN' => getenv('METRICS_TOKEN'),
+            'PROFILE_STATS_POLICY' => getenv('PROFILE_STATS_POLICY'),
+            'STREAK_RENDERER_PATH' => getenv('STREAK_RENDERER_PATH'),
+            'STREAK_PATH' => getenv('STREAK_PATH'),
+            'STREAK_OPTIONS' => getenv('STREAK_OPTIONS'),
+        ]);
+    } catch (Throwable) {
+        fwrite(STDERR, "Filtered streak generation failed.\n");
+        exit(1);
+    } finally {
+        restore_error_handler();
+    }
+}

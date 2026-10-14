@@ -60,12 +60,36 @@ jobs:
           core_version: 2.2.1
           fail_on_error: "true"
 
-      - name: Generate streak
-        uses: DenverCoder1/github-readme-streak-stats@d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1 # v1
+      - name: Prepare pinned streak renderer
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
         with:
-          options: user=orsnaro&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7&disable_animations=true
-          path: profile/streak.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          repository: DenverCoder1/github-readme-streak-stats
+          ref: d855de1a23fe45bdda5ffbc28a6d4b80b0f107e1
+          path: .profile-tools/streak-renderer
+          persist-credentials: false
+
+      - name: Prepare streak PHP
+        uses: shivammathur/setup-php@f3e473d116dcccaddc5834248c87452386958240 # v2
+        with:
+          php-version: "8.3"
+          extensions: intl, curl, dom
+          coverage: none
+
+      - name: Validate streak runtime
+        run: |
+          php -r 'if (PHP_VERSION_ID < 80300 || PHP_VERSION_ID >= 80400) { exit(1); } foreach (["intl", "curl", "dom"] as $extension) { if (!extension_loaded($extension)) { exit(1); } }'
+          php -l .github/scripts/filtered-streak.php
+          php -l .profile-tools/streak-renderer/src/stats.php
+          php -l .profile-tools/streak-renderer/src/card.php
+
+      - name: Generate streak
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          PROFILE_STATS_POLICY: ${{ github.workspace }}/.github/profile-stats.json
+          STREAK_RENDERER_PATH: ${{ github.workspace }}/.profile-tools/streak-renderer
+          STREAK_PATH: ${{ github.workspace }}/profile/streak.svg
+          STREAK_OPTIONS: user=orsnaro&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7&disable_animations=true
+        run: php .github/scripts/filtered-streak.php
 
       # exclude_repo only filters stars; filter commit searches before the core computes rank.
       - name: Generate stats with repository exclusions
