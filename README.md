@@ -125,5 +125,6 @@
   <br>
 </details>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp;  &nbsp; <sub><sub> 📍 view counter does not count unique views! also markup and shell scripting languages -HTML, CSS, QML, Shell...etc- may be counted but   **ignored** from the statistics 📍</sub></sub>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp;  &nbsp; 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=orsnaro&color=blue" alt="Profile views"></p>
+<p align="center"><img src="https://views.igorkowalczyk.dev/api/badge/orsnaro" alt="Profile views"></p>
