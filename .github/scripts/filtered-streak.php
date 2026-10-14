@@ -689,7 +689,7 @@ function collectProfileHistory(callable $request, array $policy, DateTimeImmutab
 {
     $username = $policy['username'] ?? null;
     $paths = $policy['excluded_repositories'] ?? null;
-    if (!is_string($username) || !is_array($paths) || !array_is_list($paths) || count($paths) !== 2) {
+    if (!is_string($username) || !is_array($paths) || !array_is_list($paths) || count($paths) < 1) {
         throw new InvalidArgumentException('Invalid profile policy.');
     }
     validateContributionUsername($username);
@@ -904,7 +904,7 @@ function renderFilteredStreak(array $days, string $rendererPath, array $options,
         $document = validatedStreakSvg($output['body']);
         $description = $document->createElementNS('http://www.w3.org/2000/svg', 'desc');
         $description->appendChild($document->createTextNode(
-            'API-visible contribution records; excludes orsnaro/PC-metrics and orsnaro/My-Configs-Cmder; '
+            'API-visible contribution records; excludes orsnaro/PC-metrics, orsnaro/My-Configs-Cmder, orsnaro/orsnaro, orsnaro/stars_techno and orsnaro/Graduation-Projects-Archive; '
             . 'omits discussions and opaque restricted activity. Generated '
             . $utcNow->format('Y-m-d\TH:i:s\Z') . '; total=' . $stats['totalContributions']
             . '; current=' . $stats['currentStreak']['length'] . '; longest=' . $stats['longestStreak']['length'] . '.',

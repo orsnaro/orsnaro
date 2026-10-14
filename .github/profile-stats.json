@@ -2,6 +2,9 @@
   "username": "orsnaro",
   "excluded_repositories": [
     "orsnaro/PC-metrics",
-    "orsnaro/My-Configs-Cmder"
+    "orsnaro/My-Configs-Cmder",
+    "orsnaro/orsnaro",
+    "orsnaro/stars_techno",
+    "orsnaro/Graduation-Projects-Archive"
   ]
 }
