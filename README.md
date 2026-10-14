@@ -6,6 +6,7 @@
   <img src="/profile/streak.svg" alt="GitHub streak stats for orsnaro" height="200" />
 </p>
 <p align="center"><sub>Selected markup/configuration and shell scripting languages are excluded; config backups are ignored, but cmder/bin tools remain eligible.</sub></p>
+<p align="center"><sub>Streaks use UTC API-visible contributions, excluding PC-metrics and My-Configs-Cmder; discussions and unidentified private activity are not counted. This metric follows API visibility, not the complete GitHub contribution graph. Failed refreshes retain the last successful image.</sub></p>
 
 * 🧐   Currently Interested in Backend Engineering.
 * 🎓   Grad Project: [Arch. Diagram  Here](https://orsnaro.github.io/Reality-SimSuit-Arch/) & [Website Here](https://reality-sim-suit.vercel.app/) & [More Here](https://www.canva.com/design/DAGNWeKD49I/Ar8PWySl1M78CNMUcmHHVQ/view#31)
