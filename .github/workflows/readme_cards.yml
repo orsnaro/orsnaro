@@ -63,15 +63,49 @@ jobs:
           path: profile/streak.svg
           token: ${{ secrets.METRICS_TOKEN }}
 
-      - name: Generate stats
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
-        with:
-          card: stats
-          options: username=orsnaro&show_icons=true&theme=ocean_dark&include_all_commits=true&disable_animations=true
-          path: profile/stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          core_version: 2.2.1
-          fail_on_error: "true"
+      # exclude_repo only filters stars; filter commit searches before the core computes rank.
+      - name: Generate stats without PC-metrics
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          STATS_PATH: ${{ github.workspace }}/profile/stats.svg
+        run: |
+          npm install --prefix "$RUNNER_TEMP/readme-stats" --ignore-scripts --no-save --no-audit --no-fund @stats-organization/github-readme-stats-core@2.2.1 axios@1.18.1
+          cd "$RUNNER_TEMP/readme-stats"
+          node --input-type=module <<'JS'
+          import axios from 'axios';
+          import { api } from '@stats-organization/github-readme-stats-core';
+          import { writeFile } from 'node:fs/promises';
+
+          let filteredSearch = false;
+          axios.interceptors.request.use(config => {
+            const url = new URL(config.url, config.baseURL);
+            if (url.origin === 'https://api.github.com' && url.pathname === '/search/commits') {
+              const query = url.searchParams.get('q');
+              if (!query) throw new Error('Missing GitHub commit search query');
+              const exclusion = '-repo:orsnaro/PC-metrics';
+              url.searchParams.set('q', query.split(/\s+/).includes(exclusion) ? query : `${query} ${exclusion}`);
+              config.url = url.href;
+              filteredSearch = true;
+            }
+            return config;
+          });
+          axios.interceptors.response.use(response => {
+            const url = new URL(response.config.url, response.config.baseURL);
+            if (url.origin === 'https://api.github.com' && url.pathname === '/search/commits') {
+              const { total_count, incomplete_results } = response.data;
+              if (incomplete_results !== false || !Number.isSafeInteger(total_count) || total_count < 0) {
+                throw new Error('GitHub commit search is incomplete or invalid');
+              }
+            }
+            return response;
+          });
+          const result = await api({
+            username: 'orsnaro', show_icons: 'true', theme: 'ocean_dark',
+            include_all_commits: 'true', disable_animations: 'true', exclude_repo: 'PC-metrics',
+          }, process.env.METRICS_TOKEN);
+          if (result.status !== 'success' || !filteredSearch) throw new Error('Filtered stats generation failed');
+          await writeFile(process.env.STATS_PATH, result.content);
+          JS
 
       # Runs only after every card succeeds; failed refreshes retain the last good SVGs.
       - name: Commit cards
