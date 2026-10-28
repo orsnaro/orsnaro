@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#221ac0d</div>
+                                        <div class="sha">#f9efde1</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -43,13 +43,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed  commits in
-                                        <span class="repo">orsnaro/CP-study</span>
+                                        <span class="repo">orsnaro/Dotnet-Backend-non-CP-Study</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3d03f69</div>
+                                        <div class="sha">#221ac0d</div>
                                         <div class="message"></div>
                                     </div>
                                 </div>
@@ -347,7 +347,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="38.94472361809045 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.72361809045226 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -375,7 +375,7 @@
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 51 pull requests</div>
+                                <div class="text">Opened 52 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -577,7 +577,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Oct 2026, 14:16:08 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Oct 2026, 21:12:16 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
