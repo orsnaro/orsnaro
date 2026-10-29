@@ -481,7 +481,7 @@ get the last price of items that changed price but take last change that happene
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 4.42m out of 362m repositories</span>
+                                    <span class="gh">ranked 4.42m out of 332m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -527,7 +527,7 @@ get the last price of items that changed price but take last change that happene
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 6.77m out of 362m repositories</span>
+                                    <span class="gh">ranked 6.77m out of 332m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -579,7 +579,7 @@ get the last price of items that changed price but take last change that happene
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Oct 2026, 15:40:34 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Oct 2026, 16:07:00 (timezone Africa/Cairo) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
